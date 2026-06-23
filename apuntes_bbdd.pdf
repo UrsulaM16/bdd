@@ -1,0 +1,11901 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 11510 >>
+stream
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 759.89 Tm
+/F2 18.00 Tf
+(MEGA) Tj
+/F2 18.00 Tf
+( APUNTES) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( DISENO) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( BASES) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( DATOS) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 728.39 Tm
+/F2 14.50 Tf
+(Teoria para el examen + Ejercicios practicos resueltos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 709.39 Tm
+/F1 10.50 Tf
+(Documento) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( estudio.) Tj
+/F1 10.50 Tf
+( Cubre:) Tj
+/F1 10.50 Tf
+( modelo) Tj
+/F1 10.50 Tf
+( relacional,) Tj
+/F1 10.50 Tf
+( modelo) Tj
+/F1 10.50 Tf
+( Entidad-Relacion) Tj
+/F1 10.50 Tf
+( \(E-R\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( extendido) Tj
+/F1 10.50 Tf
+( \(MERE\),) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 695.39 Tm
+/F1 10.50 Tf
+(paso) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( tablas,) Tj
+/F1 10.50 Tf
+( restricciones) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( integridad,) Tj
+/F1 10.50 Tf
+( dependencias) Tj
+/F1 10.50 Tf
+( funcionales,) Tj
+/F1 10.50 Tf
+( axiomas) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( Armstrong,) Tj
+/F1 10.50 Tf
+( cierre) Tj
+/F1 10.50 Tf
+( de) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 681.39 Tm
+/F1 10.50 Tf
+(atributos,) Tj
+/F1 10.50 Tf
+( claves,) Tj
+/F1 10.50 Tf
+( normalizacion) Tj
+/F1 10.50 Tf
+( \(1FN,) Tj
+/F1 10.50 Tf
+( 2FN,) Tj
+/F1 10.50 Tf
+( 3FN,) Tj
+/F1 10.50 Tf
+( BCNF\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( desnormalizacion.) Tj
+/F1 10.50 Tf
+( Al) Tj
+/F1 10.50 Tf
+( final) Tj
+/F1 10.50 Tf
+( hay) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( bateria) Tj
+/F1 10.50 Tf
+( de) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 667.39 Tm
+/F1 10.50 Tf
+(ejercicios) Tj
+/F1 10.50 Tf
+( tipo) Tj
+/F1 10.50 Tf
+( examen) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( soluciones.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 653.89 m 539.28 653.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 615.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 1.) Tj
+/F2 18.00 Tf
+( EL) Tj
+/F2 18.00 Tf
+( MODELO) Tj
+/F2 18.00 Tf
+( RELACIONAL) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 584.39 Tm
+/F2 14.50 Tf
+(1.1. Que es el modelo relacional) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 565.39 Tm
+/F1 10.50 Tf
+(El) Tj
+/F1 10.50 Tf
+( modelo) Tj
+/F1 10.50 Tf
+( relacional) Tj
+/F1 10.50 Tf
+( representa) Tj
+/F1 10.50 Tf
+( TODA) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( informacion) Tj
+/F1 10.50 Tf
+( mediante) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( unica) Tj
+/F1 10.50 Tf
+( estructura) Tj
+/F1 10.50 Tf
+( logica:) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 551.39 Tm
+/F1 10.50 Tf
+(\(formalmente,) Tj
+/F1 10.50 Tf
+( relacion\).) Tj
+/F1 10.50 Tf
+( No) Tj
+/F1 10.50 Tf
+( importa) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( complejidad) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( problema:) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( resultado) Tj
+/F1 10.50 Tf
+( final) Tj
+/F1 10.50 Tf
+( siempre) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( un) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 537.39 Tm
+/F1 10.50 Tf
+(conjunto) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( tablas.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 519.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Fila) Tj
+/F2 10.50 Tf
+( o) Tj
+/F2 10.50 Tf
+( tupla:) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( registro) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( instancia) Tj
+/F1 10.50 Tf
+( individual.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 505.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Columna) Tj
+/F2 10.50 Tf
+( o) Tj
+/F2 10.50 Tf
+( atributo:) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( propiedad) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( registros.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 491.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Valor) Tj
+/F2 10.50 Tf
+( atomico:) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( celda) Tj
+/F1 10.50 Tf
+( contiene) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( unico) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( indivisible) Tj
+/F1 10.50 Tf
+( \(exigencia) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( 1FN\).) Tj
+/F1 10.50 Tf
+( No) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( permiten) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 477.39 Tm
+/F1 10.50 Tf
+(listas) Tj
+/F1 10.50 Tf
+( ni) Tj
+/F1 10.50 Tf
+( estructuras) Tj
+/F1 10.50 Tf
+( anidadas.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 449.39 Tm
+/F2 14.50 Tf
+(1.2. Por que se dice que es uniforme) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 430.39 Tm
+/F1 10.50 Tf
+(Porque) Tj
+/F1 10.50 Tf
+( usa) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( sola) Tj
+/F1 10.50 Tf
+( estructura) Tj
+/F1 10.50 Tf
+( \(la) Tj
+/F1 10.50 Tf
+( tabla\)) Tj
+/F1 10.50 Tf
+( tanto) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( datos) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( relaciones) Tj
+/F1 10.50 Tf
+( entre) Tj
+/F1 10.50 Tf
+( ellos:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 412.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Las) Tj
+/F1 10.50 Tf
+( entidades) Tj
+/F1 10.50 Tf
+( \(Clientes,) Tj
+/F1 10.50 Tf
+( Productos\)) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( convierten) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( tablas.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 398.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Las) Tj
+/F1 10.50 Tf
+( relaciones) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( representan) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( tablas) Tj
+/F1 10.50 Tf
+( \(N:M\)) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( columnas) Tj
+/F1 10.50 Tf
+( adicionales) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( claves) Tj
+/F1 10.50 Tf
+( foraneas) Tj
+/F1 10.50 Tf
+( \(1:N\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 384.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( multivaluados) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( extraen) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( propia) Tj
+/F1 10.50 Tf
+( tabla.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 370.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Los) Tj
+/F1 10.50 Tf
+( vinculos) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( basan) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( VALORES) Tj
+/F1 10.50 Tf
+( \(coincidencia) Tj
+/F1 10.50 Tf
+( entre) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( primaria) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( foranea\),) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( en) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 356.39 Tm
+/F1 10.50 Tf
+(punteros) Tj
+/F1 10.50 Tf
+( fisicos.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 338.39 Tm
+/F1 10.50 Tf
+(Ventajas) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( uniformidad:) Tj
+/F1 10.50 Tf
+( sencillez) Tj
+/F1 10.50 Tf
+( \(una) Tj
+/F1 10.50 Tf
+( sola) Tj
+/F1 10.50 Tf
+( estructura) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( aprender\),) Tj
+/F1 10.50 Tf
+( flexibilidad) Tj
+/F1 10.50 Tf
+( \(varias) Tj
+/F1 10.50 Tf
+( vistas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 324.39 Tm
+/F1 10.50 Tf
+(externas) Tj
+/F1 10.50 Tf
+( sobre) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( misma) Tj
+/F1 10.50 Tf
+( base\)) Tj
+/F1 10.50 Tf
+( e) Tj
+/F1 10.50 Tf
+( independencia.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 296.39 Tm
+/F2 14.50 Tf
+(1.3. Independencia de los datos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 277.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Independencia) Tj
+/F2 10.50 Tf
+( fisica:) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( modo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( almacenamiento) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( disco) Tj
+/F1 10.50 Tf
+( \(indices,) Tj
+/F1 10.50 Tf
+( archivos,) Tj
+/F1 10.50 Tf
+( hardware,) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 263.39 Tm
+/F1 10.50 Tf
+(compresion\)) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( afecta) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( definicion) Tj
+/F1 10.50 Tf
+( logica) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( tablas.) Tj
+/F1 10.50 Tf
+( Permite) Tj
+/F1 10.50 Tf
+( cambiar) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( disco,) Tj
+/F1 10.50 Tf
+( reorganizar) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 249.39 Tm
+/F1 10.50 Tf
+(archivos) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( crear) Tj
+/F1 10.50 Tf
+( indices) Tj
+/F1 10.50 Tf
+( sin) Tj
+/F1 10.50 Tf
+( tocar) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( esquema.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 235.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Independencia) Tj
+/F2 10.50 Tf
+( logica:) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( modificar) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( esquema) Tj
+/F1 10.50 Tf
+( logico) Tj
+/F1 10.50 Tf
+( \(anadir) Tj
+/F1 10.50 Tf
+( atributos,) Tj
+/F1 10.50 Tf
+( dividir) Tj
+/F1 10.50 Tf
+( tablas) Tj
+/F1 10.50 Tf
+( al) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 221.39 Tm
+/F1 10.50 Tf
+(normalizar\)) Tj
+/F1 10.50 Tf
+( SIN) Tj
+/F1 10.50 Tf
+( afectar) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( aplicaciones) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( usan) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( datos.) Tj
+/F1 10.50 Tf
+( Las) Tj
+/F1 10.50 Tf
+( vistas) Tj
+/F1 10.50 Tf
+( ayudan) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( aplicacion) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 207.39 Tm
+/F1 10.50 Tf
+(siga) Tj
+/F1 10.50 Tf
+( "viendo") Tj
+/F1 10.50 Tf
+( lo) Tj
+/F1 10.50 Tf
+( mismo) Tj
+/F1 10.50 Tf
+( aunque) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( estructura) Tj
+/F1 10.50 Tf
+( cambie.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 189.39 Tm
+/F1 10.50 Tf
+(Regla) Tj
+/F1 10.50 Tf
+( rapida) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( confundirlas:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 175.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Fisica) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( protege) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( definicion) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( tablas) Tj
+/F1 10.50 Tf
+( frente) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( cambios) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( almacenamiento.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 161.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Logica) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( protege) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( aplicaciones) Tj
+/F1 10.50 Tf
+( frente) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( cambios) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( estructura) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( tablas.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 133.39 Tm
+/F2 14.50 Tf
+(1.4. Fases del diseno de una base de datos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 114.39 Tm
+/F2 10.50 Tf
+(1. ) Tj
+/F2 10.50 Tf
+(Diseno) Tj
+/F2 10.50 Tf
+( conceptual:) Tj
+/F1 10.50 Tf
+( entender) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( datos) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( minimundo.) Tj
+/F1 10.50 Tf
+( Resultado:) Tj
+/F1 10.50 Tf
+( modelo) Tj
+/F1 10.50 Tf
+( E-R) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( MERE) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 74.00 100.39 Tm
+/F1 10.50 Tf
+(\(independiente) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( SGBD\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 86.39 Tm
+/F2 10.50 Tf
+(2. ) Tj
+/F2 10.50 Tf
+(Diseno) Tj
+/F2 10.50 Tf
+( logico:) Tj
+/F1 10.50 Tf
+( esquema) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( tablas,) Tj
+/F1 10.50 Tf
+( columnas,) Tj
+/F1 10.50 Tf
+( tipos) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( relaciones) Tj
+/F1 10.50 Tf
+( \(independiente) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( producto) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 74.00 72.39 Tm
+/F1 10.50 Tf
+(concreto\).) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 11389 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 775.39 Tm
+/F2 10.50 Tf
+(3. ) Tj
+/F2 10.50 Tf
+(Diseno) Tj
+/F2 10.50 Tf
+( fisico:) Tj
+/F1 10.50 Tf
+( implementacion) Tj
+/F1 10.50 Tf
+( real) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( disco) Tj
+/F1 10.50 Tf
+( \(indices,) Tj
+/F1 10.50 Tf
+( ficheros,) Tj
+/F1 10.50 Tf
+( hardware\).) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 761.89 m 539.28 761.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 723.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 2.) Tj
+/F2 18.00 Tf
+( MODELO) Tj
+/F2 18.00 Tf
+( ENTIDAD-RELACION) Tj
+/F2 18.00 Tf
+( \(E-R\)) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 692.39 Tm
+/F2 14.50 Tf
+(2.1. Elementos basicos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 673.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Entidad:) Tj
+/F1 10.50 Tf
+( objeto) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( mundo) Tj
+/F1 10.50 Tf
+( real) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( existencia) Tj
+/F1 10.50 Tf
+( propia) Tj
+/F1 10.50 Tf
+( \(rectangulo) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( Chen\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 659.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Atributo:) Tj
+/F1 10.50 Tf
+( propiedad) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( \(ovalo) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( Chen\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 645.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Relacion) Tj
+/F2 10.50 Tf
+( /) Tj
+/F2 10.50 Tf
+( vinculo:) Tj
+/F1 10.50 Tf
+( asociacion) Tj
+/F1 10.50 Tf
+( entre) Tj
+/F1 10.50 Tf
+( entidades) Tj
+/F1 10.50 Tf
+( \(rombo) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( Chen\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 617.39 Tm
+/F2 14.50 Tf
+(2.2. Tipos de atributos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 598.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Simple) Tj
+/F2 10.50 Tf
+( /) Tj
+/F2 10.50 Tf
+( atomico:) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( valor.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 584.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Compuesto:) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( descompone) Tj
+/F1 10.50 Tf
+( \(Direccion) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( calle) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( numero) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( CP\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 570.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Multivaluado:) Tj
+/F1 10.50 Tf
+( admite) Tj
+/F1 10.50 Tf
+( varios) Tj
+/F1 10.50 Tf
+( valores) Tj
+/F1 10.50 Tf
+( \(Telefonos\).) Tj
+/F1 10.50 Tf
+( Se) Tj
+/F1 10.50 Tf
+( representa) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( ovalo) Tj
+/F1 10.50 Tf
+( doble.) Tj
+/F1 10.50 Tf
+( Al) Tj
+/F1 10.50 Tf
+( pasar) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( tablas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 556.39 Tm
+/F1 10.50 Tf
+(SIEMPRE) Tj
+/F1 10.50 Tf
+( genera) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( aparte.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 542.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Derivado) Tj
+/F2 10.50 Tf
+( /) Tj
+/F2 10.50 Tf
+( calculado:) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( obtiene) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( partir) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( otros) Tj
+/F1 10.50 Tf
+( \(Edad) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( partir) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( FechaNacimiento\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 528.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Identificador) Tj
+/F2 10.50 Tf
+( /) Tj
+/F2 10.50 Tf
+( clave:) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( subrayado) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( identifica) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( entidad.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 500.39 Tm
+/F2 14.50 Tf
+(2.3. Razon de cardinalidad \(maximos\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 481.39 Tm
+/F1 10.50 Tf
+(Numero) Tj
+/F1 10.50 Tf
+( MAXIMO) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( instancias) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( pueden) Tj
+/F1 10.50 Tf
+( asociar) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( instancia) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( otra.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 463.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(1:1) Tj
+/F2 10.50 Tf
+( \(uno) Tj
+/F2 10.50 Tf
+( a) Tj
+/F2 10.50 Tf
+( uno\):) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( DEPARTAMENTO) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( DIRECTOR) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( viceversa.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 449.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(1:N) Tj
+/F2 10.50 Tf
+( \(uno) Tj
+/F2 10.50 Tf
+( a) Tj
+/F2 10.50 Tf
+( muchos\):) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( CURSO) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( muchos) Tj
+/F1 10.50 Tf
+( ALUMNOS,) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( alumno) Tj
+/F1 10.50 Tf
+( pertenece) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( solo) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 435.39 Tm
+/F1 10.50 Tf
+(curso.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 421.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(N:M) Tj
+/F2 10.50 Tf
+( \(muchos) Tj
+/F2 10.50 Tf
+( a) Tj
+/F2 10.50 Tf
+( muchos\):) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( EMPLEADO) Tj
+/F1 10.50 Tf
+( trabaja) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( varios) Tj
+/F1 10.50 Tf
+( PROYECTOS) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( proyecto) Tj
+/F1 10.50 Tf
+( tiene) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 407.39 Tm
+/F1 10.50 Tf
+(varios) Tj
+/F1 10.50 Tf
+( empleados.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 379.39 Tm
+/F2 14.50 Tf
+(2.4. Restriccion de participacion \(minimos\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 360.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Total) Tj
+/F2 10.50 Tf
+( \(obligatoria\):) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( debe) Tj
+/F1 10.50 Tf
+( participar) Tj
+/F1 10.50 Tf
+( siempre) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( \(minimo) Tj
+/F1 10.50 Tf
+( 1\).) Tj
+/F1 10.50 Tf
+( Se) Tj
+/F1 10.50 Tf
+( dibuja) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( linea) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 346.39 Tm
+/F1 10.50 Tf
+(doble.) Tj
+/F1 10.50 Tf
+( En) Tj
+/F1 10.50 Tf
+( tablas,) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( define) Tj
+/F1 10.50 Tf
+( NOT) Tj
+/F1 10.50 Tf
+( NULL.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 332.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Parcial) Tj
+/F2 10.50 Tf
+( \(opcional\):) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( existir) Tj
+/F1 10.50 Tf
+( sin) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( \(minimo) Tj
+/F1 10.50 Tf
+( 0\).) Tj
+/F1 10.50 Tf
+( Linea) Tj
+/F1 10.50 Tf
+( simple.) Tj
+/F1 10.50 Tf
+( La) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( admite) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 318.39 Tm
+/F1 10.50 Tf
+(NULL.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 300.39 Tm
+/F1 10.50 Tf
+(CLAVE) Tj
+/F1 10.50 Tf
+( DE) Tj
+/F1 10.50 Tf
+( EXAMEN:) Tj
+/F1 10.50 Tf
+( cardinalidad) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( maximo) Tj
+/F1 10.50 Tf
+( \(con) Tj
+/F1 10.50 Tf
+( cuantos) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( mucho\);) Tj
+/F1 10.50 Tf
+( participacion) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( minimo) Tj
+/F1 10.50 Tf
+( \(es) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 286.39 Tm
+/F1 10.50 Tf
+(obligatorio) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( no\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 258.39 Tm
+/F2 14.50 Tf
+(2.5. Entidad fuerte vs entidad debil) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 237.39 Tm
+/F2 9.50 Tf
+(Caracteristica) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 221.09 237.39 Tm
+/F2 9.50 Tf
+(Entidad) Tj
+/F2 9.50 Tf
+( fuerte) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 382.19 237.39 Tm
+/F2 9.50 Tf
+(Entidad) Tj
+/F2 9.50 Tf
+( debil) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 221.39 Tm
+/F1 9.50 Tf
+(Existencia) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 221.09 221.39 Tm
+/F1 9.50 Tf
+(Propia) Tj
+/F1 9.50 Tf
+( e) Tj
+/F1 9.50 Tf
+( independiente) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 382.19 221.39 Tm
+/F1 9.50 Tf
+(Depende) Tj
+/F1 9.50 Tf
+( de) Tj
+/F1 9.50 Tf
+( una) Tj
+/F1 9.50 Tf
+( entidad) Tj
+/F1 9.50 Tf
+( propietaria) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 205.39 Tm
+/F1 9.50 Tf
+(Clave) Tj
+/F1 9.50 Tf
+( primaria) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 221.09 205.39 Tm
+/F1 9.50 Tf
+(Propia) Tj
+/F1 9.50 Tf
+( y) Tj
+/F1 9.50 Tf
+( completa) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 382.19 205.39 Tm
+/F1 9.50 Tf
+(Compuesta:) Tj
+/F1 9.50 Tf
+( FK) Tj
+/F1 9.50 Tf
+( del) Tj
+/F1 9.50 Tf
+( dueno) Tj
+/F1 9.50 Tf
+( +) Tj
+/F1 9.50 Tf
+( clave) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 382.19 193.39 Tm
+/F1 9.50 Tf
+(parcial) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 177.39 Tm
+/F1 9.50 Tf
+(Notacion) Tj
+/F1 9.50 Tf
+( Chen) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 221.09 177.39 Tm
+/F1 9.50 Tf
+(Rectangulo) Tj
+/F1 9.50 Tf
+( simple) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 382.19 177.39 Tm
+/F1 9.50 Tf
+(Rectangulo) Tj
+/F1 9.50 Tf
+( doble) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 161.39 Tm
+/F1 9.50 Tf
+(Participacion) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 221.09 161.39 Tm
+/F1 9.50 Tf
+(Parcial) Tj
+/F1 9.50 Tf
+( o) Tj
+/F1 9.50 Tf
+( total) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 382.19 161.39 Tm
+/F1 9.50 Tf
+(Siempre) Tj
+/F1 9.50 Tf
+( TOTAL) Tj
+/F1 9.50 Tf
+( respecto) Tj
+/F1 9.50 Tf
+( a) Tj
+/F1 9.50 Tf
+( su) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 382.19 149.39 Tm
+/F1 9.50 Tf
+(dueno) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 124.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Atributo) Tj
+/F2 10.50 Tf
+( discriminante) Tj
+/F2 10.50 Tf
+( \(clave) Tj
+/F2 10.50 Tf
+( parcial\):) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( distingue) Tj
+/F1 10.50 Tf
+( instancias) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( debil) Tj
+/F1 10.50 Tf
+( que) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 110.39 Tm
+/F1 10.50 Tf
+(pertenecen) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( MISMO) Tj
+/F1 10.50 Tf
+( dueno.) Tj
+/F1 10.50 Tf
+( No) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( unico) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( toda) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla,) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( localmente.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 96.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( EMPLEADO) Tj
+/F1 10.50 Tf
+( \(PK:) Tj
+/F1 10.50 Tf
+( Nss\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( FAMILIAR) Tj
+/F1 10.50 Tf
+( \(discriminante:) Tj
+/F1 10.50 Tf
+( NombreFamiliar\).) Tj
+/F1 10.50 Tf
+( La) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( FAMILIAR) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 82.39 Tm
+/F1 10.50 Tf
+(tiene) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( \(Nss,) Tj
+/F1 10.50 Tf
+( NombreFamiliar\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 68.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Si) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( debil) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( DOS) Tj
+/F1 10.50 Tf
+( entidades) Tj
+/F1 10.50 Tf
+( fuertes,) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( combina) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( claves) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( ambas) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( su) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 12821 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 775.39 Tm
+/F1 10.50 Tf
+(discriminante,) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( vinculo) Tj
+/F1 10.50 Tf
+( identificador) Tj
+/F1 10.50 Tf
+( deja) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( binario) Tj
+/F1 10.50 Tf
+( \(puede) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( ternario\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 761.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Si) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( dueno) Tj
+/F1 10.50 Tf
+( desaparece,) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( debil) Tj
+/F1 10.50 Tf
+( debe) Tj
+/F1 10.50 Tf
+( eliminarse) Tj
+/F1 10.50 Tf
+( \(ON) Tj
+/F1 10.50 Tf
+( DELETE) Tj
+/F1 10.50 Tf
+( CASCADE\):) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( anomalia) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 747.39 Tm
+/F1 10.50 Tf
+(de) Tj
+/F1 10.50 Tf
+( borrado) Tj
+/F1 10.50 Tf
+( controlada.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 733.89 m 539.28 733.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 695.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 3.) Tj
+/F2 18.00 Tf
+( MODELO) Tj
+/F2 18.00 Tf
+( E-R) Tj
+/F2 18.00 Tf
+( EXTENDIDO) Tj
+/F2 18.00 Tf
+( \(MERE\)) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 664.39 Tm
+/F2 14.50 Tf
+(3.1. Jerarquias: especializacion y generalizacion) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 645.39 Tm
+/F1 10.50 Tf
+(Una) Tj
+/F1 10.50 Tf
+( superclase) Tj
+/F1 10.50 Tf
+( \(entidad) Tj
+/F1 10.50 Tf
+( generica\)) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( divide) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( subclases) Tj
+/F1 10.50 Tf
+( \(entidades) Tj
+/F1 10.50 Tf
+( especificas\).) Tj
+/F1 10.50 Tf
+( Las) Tj
+/F1 10.50 Tf
+( subclases) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 631.39 Tm
+/F1 10.50 Tf
+(HEREDAN) Tj
+/F1 10.50 Tf
+( todos) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( relaciones) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( superclase) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( anaden) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( suyos) Tj
+/F1 10.50 Tf
+( propios.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 613.39 Tm
+/F1 10.50 Tf
+(Las) Tj
+/F1 10.50 Tf
+( jerarquias) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( controlan) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( dos) Tj
+/F1 10.50 Tf
+( restricciones) Tj
+/F1 10.50 Tf
+( independientes:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 595.39 Tm
+/F2 10.50 Tf
+(A\)) Tj
+/F2 10.50 Tf
+( Restriccion) Tj
+/F2 10.50 Tf
+( de) Tj
+/F2 10.50 Tf
+( disyuncion:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 581.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Disjunta) Tj
+/F2 10.50 Tf
+( \(d\):) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( instancia) Tj
+/F1 10.50 Tf
+( pertenece) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( maximo) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( UNA) Tj
+/F1 10.50 Tf
+( subclase) Tj
+/F1 10.50 Tf
+( \(Empleado) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( Tecnico) Tj
+/F1 10.50 Tf
+( O) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 567.39 Tm
+/F1 10.50 Tf
+(Administrativo,) Tj
+/F1 10.50 Tf
+( nunca) Tj
+/F1 10.50 Tf
+( ambos\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 553.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Solapada) Tj
+/F2 10.50 Tf
+( \(s) Tj
+/F2 10.50 Tf
+( /) Tj
+/F2 10.50 Tf
+( o\):) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( instancia) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( pertenecer) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( VARIAS) Tj
+/F1 10.50 Tf
+( subclases) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( vez) Tj
+/F1 10.50 Tf
+( \(una) Tj
+/F1 10.50 Tf
+( Persona) Tj
+/F1 10.50 Tf
+( puede) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 539.39 Tm
+/F1 10.50 Tf
+(ser) Tj
+/F1 10.50 Tf
+( Alumno) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( Profesor) Tj
+/F1 10.50 Tf
+( simultaneamente\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 521.39 Tm
+/F2 10.50 Tf
+(B\)) Tj
+/F2 10.50 Tf
+( Restriccion) Tj
+/F2 10.50 Tf
+( de) Tj
+/F2 10.50 Tf
+( completitud:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 507.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Total:) Tj
+/F1 10.50 Tf
+( toda) Tj
+/F1 10.50 Tf
+( instancia) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( superclase) Tj
+/F1 10.50 Tf
+( DEBE) Tj
+/F1 10.50 Tf
+( pertenecer) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( alguna) Tj
+/F1 10.50 Tf
+( subclase) Tj
+/F1 10.50 Tf
+( \(linea) Tj
+/F1 10.50 Tf
+( doble\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 493.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Parcial:) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( instancia) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( pertenecer) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( ninguna) Tj
+/F1 10.50 Tf
+( subclase) Tj
+/F1 10.50 Tf
+( \(linea) Tj
+/F1 10.50 Tf
+( simple\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 475.39 Tm
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( combinan:) Tj
+/F1 10.50 Tf
+( total+disjunta,) Tj
+/F1 10.50 Tf
+( total+solapada,) Tj
+/F1 10.50 Tf
+( parcial+disjunta,) Tj
+/F1 10.50 Tf
+( parcial+solapada.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 447.39 Tm
+/F2 14.50 Tf
+(3.2. Agregacion) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 428.39 Tm
+/F1 10.50 Tf
+(REGLA) Tj
+/F1 10.50 Tf
+( CLAVE) Tj
+/F1 10.50 Tf
+( DE) Tj
+/F1 10.50 Tf
+( EXAMEN:) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( agregacion) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( estrictamente) Tj
+/F1 10.50 Tf
+( necesaria) Tj
+/F1 10.50 Tf
+( cuando) Tj
+/F1 10.50 Tf
+( hay) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( modelar) Tj
+/F1 10.50 Tf
+( una) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 414.39 Tm
+/F1 10.50 Tf
+(relacion) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( vez) Tj
+/F1 10.50 Tf
+( participa) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( vinculo) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tercera) Tj
+/F1 10.50 Tf
+( entidad.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 396.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Problema) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( resuelve:) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( E-R) Tj
+/F1 10.50 Tf
+( original) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( \(rombo\)) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( conectarse) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( otra) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 382.39 Tm
+/F1 10.50 Tf
+(relacion.) Tj
+/F1 10.50 Tf
+( Solo) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( conectan) Tj
+/F1 10.50 Tf
+( entidades.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 368.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Solucion:) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( "abstrae") Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( sus) Tj
+/F1 10.50 Tf
+( entidades) Tj
+/F1 10.50 Tf
+( participantes) Tj
+/F1 10.50 Tf
+( tratandolas) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( unica) Tj
+/F1 10.50 Tf
+( entidad) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 354.39 Tm
+/F1 10.50 Tf
+(compuesta) Tj
+/F1 10.50 Tf
+( \(metadefinicion\).) Tj
+/F1 10.50 Tf
+( Asi) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( crear) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( nuevo) Tj
+/F1 10.50 Tf
+( vinculo) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tercera) Tj
+/F1 10.50 Tf
+( entidad.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 340.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Representacion) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( Chen:) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( rectangulo) Tj
+/F1 10.50 Tf
+( envolvente) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( rodea) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( sus) Tj
+/F1 10.50 Tf
+( entidades.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 326.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( TRABAJA_EN) Tj
+/F1 10.50 Tf
+( entre) Tj
+/F1 10.50 Tf
+( EMPLEADO) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( PROYECTO.) Tj
+/F1 10.50 Tf
+( Si) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( SUPERVISOR) Tj
+/F1 10.50 Tf
+( evalua) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 312.39 Tm
+/F1 10.50 Tf
+(esa) Tj
+/F1 10.50 Tf
+( participacion) Tj
+/F1 10.50 Tf
+( concreta,) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( agrega) Tj
+/F1 10.50 Tf
+( TRABAJA_EN) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( conecta) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( SUPERVISOR.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 294.39 Tm
+/F1 10.50 Tf
+(CUIDADO:) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( confundir) Tj
+/F1 10.50 Tf
+( agregacion) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( "jerarquia) Tj
+/F1 10.50 Tf
+( solapada) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( total".) Tj
+/F1 10.50 Tf
+( Esas) Tj
+/F1 10.50 Tf
+( son) Tj
+/F1 10.50 Tf
+( restricciones) Tj
+/F1 10.50 Tf
+( de) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 280.39 Tm
+/F1 10.50 Tf
+(pertenencia) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( especializacion,) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tecnica) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( abstraccion) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( relaciones.) Tj
+/F1 10.50 Tf
+( Siempre) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( leas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 266.39 Tm
+/F1 10.50 Tf
+("una) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( participa) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( vinculo",) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( respuesta) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( AGREGACION.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 238.39 Tm
+/F2 14.50 Tf
+(3.3. Arco o relacion exclusiva) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 219.39 Tm
+/F1 10.50 Tf
+(Indica) Tj
+/F1 10.50 Tf
+( exclusividad) Tj
+/F1 10.50 Tf
+( mutua:) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( instancia) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( relacionarse) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( UNA) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( varias) Tj
+/F1 10.50 Tf
+( opciones,) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( con) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 205.39 Tm
+/F1 10.50 Tf
+(varias) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( vez.) Tj
+/F1 10.50 Tf
+( Ejemplo:) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( PAGO) Tj
+/F1 10.50 Tf
+( lo) Tj
+/F1 10.50 Tf
+( realiza) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( CLIENTE_PARTICULAR) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( EMPRESA,) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( no) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 191.39 Tm
+/F1 10.50 Tf
+(ambos.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 173.39 Tm
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( dibuja) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( linea) Tj
+/F1 10.50 Tf
+( curva) Tj
+/F1 10.50 Tf
+( \(arco\)) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( cruza) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( relaciones) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( conflicto.) Tj
+/F1 10.50 Tf
+( En) Tj
+/F1 10.50 Tf
+( SQL) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( traduccion) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 159.39 Tm
+/F1 10.50 Tf
+(automatica:) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( implementa) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( varias) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( restriccion) Tj
+/F1 10.50 Tf
+( CHECK) Tj
+/F1 10.50 Tf
+( \(solo) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( valor,) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( resto) Tj
+/F1 10.50 Tf
+( NULL\)) Tj
+/F1 10.50 Tf
+( o) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 145.39 Tm
+/F1 10.50 Tf
+(con) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( columna) Tj
+/F1 10.50 Tf
+( discriminadora.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 117.39 Tm
+/F2 14.50 Tf
+(3.4. Relacion reflexiva \(recursiva o unaria\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 98.39 Tm
+/F1 10.50 Tf
+(Una) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( relaciona) Tj
+/F1 10.50 Tf
+( consigo) Tj
+/F1 10.50 Tf
+( misma;) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( registros) Tj
+/F1 10.50 Tf
+( juegan) Tj
+/F1 10.50 Tf
+( roles) Tj
+/F1 10.50 Tf
+( distintos.) Tj
+/F1 10.50 Tf
+( Ejemplo:) Tj
+/F1 10.50 Tf
+( EMPLEADO) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 84.39 Tm
+/F1 10.50 Tf
+(supervisa) Tj
+/F1 10.50 Tf
+( EMPLEADO.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 66.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Implementacion) Tj
+/F1 10.50 Tf
+( \(1:N\):) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( anade) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( propia) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( apunta) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( \(id_supervisor) Tj
+/F1 10.50 Tf
+( ->) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 10359 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 775.39 Tm
+/F1 10.50 Tf
+(id_empleado\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 761.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(La) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( suele) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( NULL:) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( cargo) Tj
+/F1 10.50 Tf
+( mas) Tj
+/F1 10.50 Tf
+( alto) Tj
+/F1 10.50 Tf
+( \(CEO\)) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( supervisor.) Tj
+/F1 10.50 Tf
+( Si) Tj
+/F1 10.50 Tf
+( fuera) Tj
+/F1 10.50 Tf
+( NOT) Tj
+/F1 10.50 Tf
+( NULL) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( crearia) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 747.39 Tm
+/F1 10.50 Tf
+(un) Tj
+/F1 10.50 Tf
+( bucle) Tj
+/F1 10.50 Tf
+( imposible.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 733.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Usos:) Tj
+/F1 10.50 Tf
+( jerarquias) Tj
+/F1 10.50 Tf
+( organizativas,) Tj
+/F1 10.50 Tf
+( categorias) Tj
+/F1 10.50 Tf
+( anidadas,) Tj
+/F1 10.50 Tf
+( listas) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( materiales.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 719.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( recomienda) Tj
+/F1 10.50 Tf
+( nombrar) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( roles) Tj
+/F1 10.50 Tf
+( \(supervisor) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( supervisado\).) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 705.89 m 539.28 705.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 667.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 4.) Tj
+/F2 18.00 Tf
+( NOTACIONES) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( DIAGRAMAS) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 636.39 Tm
+/F2 14.50 Tf
+(4.1. Chen) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 617.39 Tm
+/F1 10.50 Tf
+(Usa) Tj
+/F1 10.50 Tf
+( rectangulos) Tj
+/F1 10.50 Tf
+( \(entidades\),) Tj
+/F1 10.50 Tf
+( ovalos) Tj
+/F1 10.50 Tf
+( \(atributos\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( rombos) Tj
+/F1 10.50 Tf
+( \(relaciones\).) Tj
+/F1 10.50 Tf
+( La) Tj
+/F1 10.50 Tf
+( cardinalidad) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( anota) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( 1,) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 603.39 Tm
+/F1 10.50 Tf
+(N,) Tj
+/F1 10.50 Tf
+( M) Tj
+/F1 10.50 Tf
+( sobre) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( lineas.) Tj
+/F1 10.50 Tf
+( Entidad) Tj
+/F1 10.50 Tf
+( debil) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( rectangulo) Tj
+/F1 10.50 Tf
+( doble;) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( identificadora) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( rombo) Tj
+/F1 10.50 Tf
+( doble;) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 589.39 Tm
+/F1 10.50 Tf
+(discriminante) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( ovalo) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( linea) Tj
+/F1 10.50 Tf
+( discontinua) Tj
+/F1 10.50 Tf
+( subrayada.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 561.39 Tm
+/F2 14.50 Tf
+(4.2. Barker \(entornos Oracle\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 542.39 Tm
+/F1 10.50 Tf
+(Muy) Tj
+/F1 10.50 Tf
+( orientada) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( reglas) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( negocio.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 528.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Linea) Tj
+/F2 10.50 Tf
+( continua:) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( obligatoria) Tj
+/F1 10.50 Tf
+( \(must) Tj
+/F1 10.50 Tf
+( be\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 514.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Linea) Tj
+/F2 10.50 Tf
+( discontinua:) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( opcional) Tj
+/F1 10.50 Tf
+( \(may) Tj
+/F1 10.50 Tf
+( be\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 500.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Barra) Tj
+/F2 10.50 Tf
+( de) Tj
+/F2 10.50 Tf
+( identificacion) Tj
+/F2 10.50 Tf
+( \(UID) Tj
+/F2 10.50 Tf
+( bar\)) Tj
+/F2 10.50 Tf
+( "|":) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( parte) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( identificador) Tj
+/F1 10.50 Tf
+( unico) Tj
+/F1 10.50 Tf
+( \(PK\)) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 486.39 Tm
+/F1 10.50 Tf
+(entidad.) Tj
+/F1 10.50 Tf
+( Sustituye) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( rectangulo) Tj
+/F1 10.50 Tf
+( doble) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( Chen.) Tj
+/F1 10.50 Tf
+( En) Tj
+/F1 10.50 Tf
+( tablas,) Tj
+/F1 10.50 Tf
+( esa) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( pasa) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( formar) Tj
+/F1 10.50 Tf
+( parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( PK.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 472.39 Tm
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( LINEA_PEDIDO) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( identifica) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( ID_Pedido) Tj
+/F1 10.50 Tf
+( \(heredado\)) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( Numero_Linea.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 458.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Rombo) Tj
+/F2 10.50 Tf
+( \(no-transferibilidad\):) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( vez) Tj
+/F1 10.50 Tf
+( establecida) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion,) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( cambiarse) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( otra) Tj
+/F1 10.50 Tf
+( instancia.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 444.39 Tm
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( CAPITULO) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( moverse) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( LIBRO.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 426.39 Tm
+/F1 10.50 Tf
+(Diferencia) Tj
+/F1 10.50 Tf
+( clave:) Tj
+/F1 10.50 Tf
+( UID) Tj
+/F1 10.50 Tf
+( bar) Tj
+/F1 10.50 Tf
+( define) Tj
+/F1 10.50 Tf
+( QUIEN) Tj
+/F1 10.50 Tf
+( ERES) Tj
+/F1 10.50 Tf
+( \(identidad\);) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( rombo) Tj
+/F1 10.50 Tf
+( define) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( es) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 412.39 Tm
+/F1 10.50 Tf
+(PERMANENTE) Tj
+/F1 10.50 Tf
+( \(no) Tj
+/F1 10.50 Tf
+( cambia) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( dueno\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 384.39 Tm
+/F2 14.50 Tf
+(4.3. Pata de Gallo \(Crow's Foot\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 365.39 Tm
+/F1 10.50 Tf
+(Simbolos) Tj
+/F1 10.50 Tf
+( visuales:) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( barra) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( "uno") Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( pata) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( tres) Tj
+/F1 10.50 Tf
+( lineas) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( "muchos";) Tj
+/F1 10.50 Tf
+( circulo) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( opcional.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 351.89 m 539.28 351.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 313.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 5.) Tj
+/F2 18.00 Tf
+( PASO) Tj
+/F2 18.00 Tf
+( DEL) Tj
+/F2 18.00 Tf
+( MODELO) Tj
+/F2 18.00 Tf
+( E-R) Tj
+/F2 18.00 Tf
+( AL) Tj
+/F2 18.00 Tf
+( RELACIONAL) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 282.39 Tm
+/F2 14.50 Tf
+(5.1. Entidades) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 263.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Entidad) Tj
+/F1 10.50 Tf
+( fuerte) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( propia) Tj
+/F1 10.50 Tf
+( PK.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 249.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Entidad) Tj
+/F1 10.50 Tf
+( debil) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( compuesta) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( dueno) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( discriminante.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 221.39 Tm
+/F2 14.50 Tf
+(5.2. Atributo multivaluado) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 202.39 Tm
+/F1 10.50 Tf
+(REGLA) Tj
+/F1 10.50 Tf
+( DE) Tj
+/F1 10.50 Tf
+( ORO:) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( multivaluado) Tj
+/F1 10.50 Tf
+( SIEMPRE) Tj
+/F1 10.50 Tf
+( genera) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( aparte) Tj
+/F1 10.50 Tf
+( \(para) Tj
+/F1 10.50 Tf
+( cumplir) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( 1FN) Tj
+/F1 10.50 Tf
+( /) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 188.39 Tm
+/F1 10.50 Tf
+(atomicidad\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 174.39 Tm
+/F2 10.50 Tf
+(1. ) Tj
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( elimina) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( original.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 160.39 Tm
+/F2 10.50 Tf
+(2. ) Tj
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( crea) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( nueva.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 146.39 Tm
+/F2 10.50 Tf
+(3. ) Tj
+/F1 10.50 Tf
+(La) Tj
+/F1 10.50 Tf
+( nueva) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( incluye) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( FK;) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( \(PK_entidad) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( atributo\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 128.39 Tm
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( Cliente\(DNI,) Tj
+/F1 10.50 Tf
+( Nombre\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( Telefono) Tj
+/F1 10.50 Tf
+( multivaluado) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Telefonos\(DNI,) Tj
+/F1 10.50 Tf
+( Telefono\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 114.39 Tm
+/F1 10.50 Tf
+(compuesta.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 86.39 Tm
+/F2 14.50 Tf
+(5.3. Relacion 1:1) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 67.39 Tm
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( propaga) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( \(con) Tj
+/F1 10.50 Tf
+( restriccion) Tj
+/F1 10.50 Tf
+( UNIQUE\).) Tj
+/F1 10.50 Tf
+( Si) Tj
+/F1 10.50 Tf
+( ambos) Tj
+/F1 10.50 Tf
+( lados) Tj
+/F1 10.50 Tf
+( son) Tj
+/F1 10.50 Tf
+( de) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 10976 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 775.39 Tm
+/F1 10.50 Tf
+(participacion) Tj
+/F1 10.50 Tf
+( parcial) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( pocos) Tj
+/F1 10.50 Tf
+( registros) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( relacionan,) Tj
+/F1 10.50 Tf
+( conviene) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( separada) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( evitar) Tj
+/F1 10.50 Tf
+( exceso) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 761.39 Tm
+/F1 10.50 Tf
+(de) Tj
+/F1 10.50 Tf
+( NULL.) Tj
+/F1 10.50 Tf
+( Se) Tj
+/F1 10.50 Tf
+( coloca) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( participacion) Tj
+/F1 10.50 Tf
+( mas) Tj
+/F1 10.50 Tf
+( cercana) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( total) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( minimizar) Tj
+/F1 10.50 Tf
+( nulos.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 733.39 Tm
+/F2 14.50 Tf
+(5.4. Relacion 1:N) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 714.39 Tm
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( propaga) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( "1") Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( "N".) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( crea) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( nueva.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 700.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Participacion) Tj
+/F1 10.50 Tf
+( total) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( N) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( NOT) Tj
+/F1 10.50 Tf
+( NULL.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 686.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Participacion) Tj
+/F1 10.50 Tf
+( parcial) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( admite) Tj
+/F1 10.50 Tf
+( NULL.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 672.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(No) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( hace) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( reves) Tj
+/F1 10.50 Tf
+( porque) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( "1") Tj
+/F1 10.50 Tf
+( tendria) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( guardar) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( lista) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( valores) Tj
+/F1 10.50 Tf
+( \(violaria) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( 1FN\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 644.39 Tm
+/F2 14.50 Tf
+(5.5. Relacion N:M) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 625.39 Tm
+/F1 10.50 Tf
+(SIEMPRE) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( crea) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( intermedia) Tj
+/F1 10.50 Tf
+( \(de) Tj
+/F1 10.50 Tf
+( union/asociativa\):) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 611.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Columnas:) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( dos) Tj
+/F1 10.50 Tf
+( entidades) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( FK.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 597.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(PK) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( intermedia) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( union) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( ambas) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( \(clave) Tj
+/F1 10.50 Tf
+( compuesta\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 583.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( propios) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( \(Fecha,) Tj
+/F1 10.50 Tf
+( Horas...\)) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( colocan) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( tabla.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 565.39 Tm
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( Trabaja_En\(Nss,) Tj
+/F1 10.50 Tf
+( NumProyecto,) Tj
+/F1 10.50 Tf
+( Horas\).) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 551.89 m 539.28 551.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 513.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 6.) Tj
+/F2 18.00 Tf
+( RESTRICCIONES) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( INTEGRIDAD) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 482.39 Tm
+/F2 14.50 Tf
+(6.1. Restricciones en el modelo relacional \(SQL\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 463.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(NOT) Tj
+/F2 10.50 Tf
+( NULL:) Tj
+/F1 10.50 Tf
+( prohibe) Tj
+/F1 10.50 Tf
+( valores) Tj
+/F1 10.50 Tf
+( nulos) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( columna.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 449.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(UNIQUE:) Tj
+/F1 10.50 Tf
+( prohibe) Tj
+/F1 10.50 Tf
+( duplicados) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( columna) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( conjunto.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 435.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(PRIMARY) Tj
+/F2 10.50 Tf
+( KEY:) Tj
+/F1 10.50 Tf
+( identifica) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( unica) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( fila;) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( NOT) Tj
+/F1 10.50 Tf
+( NULL) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( UNIQUE.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 421.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(FOREIGN) Tj
+/F2 10.50 Tf
+( KEY) Tj
+/F2 10.50 Tf
+( \(referencial\):) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( hija) Tj
+/F1 10.50 Tf
+( debe) Tj
+/F1 10.50 Tf
+( existir) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( padre;) Tj
+/F1 10.50 Tf
+( evita) Tj
+/F1 10.50 Tf
+( registros) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 407.39 Tm
+/F1 10.50 Tf
+(huerfanos.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 393.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(CHECK:) Tj
+/F1 10.50 Tf
+( condicion) Tj
+/F1 10.50 Tf
+( logica) Tj
+/F1 10.50 Tf
+( sobre) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( valores) Tj
+/F1 10.50 Tf
+( permitidos) Tj
+/F1 10.50 Tf
+( \(p.) Tj
+/F1 10.50 Tf
+( ej.) Tj
+/F1 10.50 Tf
+( salario) Tj
+/F1 10.50 Tf
+( >) Tj
+/F1 10.50 Tf
+( 1000\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 379.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(DEFAULT:) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( por) Tj
+/F1 10.50 Tf
+( defecto) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( especifica.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 351.39 Tm
+/F2 14.50 Tf
+(6.2. Integridad referencial y acciones en cascada) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 332.39 Tm
+/F1 10.50 Tf
+(Garantiza) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( referencia) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( existente.) Tj
+/F1 10.50 Tf
+( Controla) Tj
+/F1 10.50 Tf
+( insercion,) Tj
+/F1 10.50 Tf
+( actualizacion) Tj
+/F1 10.50 Tf
+( y) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 318.39 Tm
+/F1 10.50 Tf
+(borrado.) Tj
+/F1 10.50 Tf
+( Estrategias) Tj
+/F1 10.50 Tf
+( ON) Tj
+/F1 10.50 Tf
+( DELETE) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( ON) Tj
+/F1 10.50 Tf
+( UPDATE:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 300.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(RESTRICT) Tj
+/F2 10.50 Tf
+( \(por) Tj
+/F2 10.50 Tf
+( defecto\):) Tj
+/F1 10.50 Tf
+( bloquea) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( operacion) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( hay) Tj
+/F1 10.50 Tf
+( hijos) Tj
+/F1 10.50 Tf
+( dependientes.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 286.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(CASCADE:) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( borrar/actualizar) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( padre,) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( propaga) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( hijos.) Tj
+/F1 10.50 Tf
+( Tipico) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( entidades) Tj
+/F1 10.50 Tf
+( debiles.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 272.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(SET) Tj
+/F2 10.50 Tf
+( NULL:) Tj
+/F1 10.50 Tf
+( pone) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( hijos) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( NULL) Tj
+/F1 10.50 Tf
+( \(solo) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( participacion) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( parcial\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 244.39 Tm
+/F2 14.50 Tf
+(6.3. Restricciones estructurales del MER) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 225.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Razon) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( cardinalidad) Tj
+/F1 10.50 Tf
+( \(1:1,) Tj
+/F1 10.50 Tf
+( 1:N,) Tj
+/F1 10.50 Tf
+( N:M\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 211.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Restriccion) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( participacion) Tj
+/F1 10.50 Tf
+( \(total) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( parcial\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 183.39 Tm
+/F2 14.50 Tf
+(6.4. Restricciones en jerarquias \(MERE\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 164.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Disyuncion) Tj
+/F1 10.50 Tf
+( \(disjunta) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( solapada\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 150.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Completitud) Tj
+/F1 10.50 Tf
+( \(total) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( parcial\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 122.39 Tm
+/F2 14.50 Tf
+(6.5. Otros tipos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 103.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Dependencias) Tj
+/F2 10.50 Tf
+( funcionales:) Tj
+/F1 10.50 Tf
+( restriccion) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( proviene) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( semantica) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( datos;) Tj
+/F1 10.50 Tf
+( medio) Tj
+/F1 10.50 Tf
+( formal) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 89.39 Tm
+/F1 10.50 Tf
+(para) Tj
+/F1 10.50 Tf
+( saber) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( diseno) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( correcto.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 75.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Restricciones) Tj
+/F2 10.50 Tf
+( informativas:) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( optimizador) Tj
+/F1 10.50 Tf
+( SQL) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( usa) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( rendimiento,) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( gestor) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( las) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 61.39 Tm
+/F1 10.50 Tf
+(verifica.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 11053 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 775.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Integridad) Tj
+/F2 10.50 Tf
+( referencial) Tj
+/F2 10.50 Tf
+( en) Tj
+/F2 10.50 Tf
+( cascada:) Tj
+/F1 10.50 Tf
+( acciones) Tj
+/F1 10.50 Tf
+( automaticas) Tj
+/F1 10.50 Tf
+( CASCADE) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( SET) Tj
+/F1 10.50 Tf
+( NULL) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( RESTRICT.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 761.89 m 539.28 761.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 723.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 7.) Tj
+/F2 18.00 Tf
+( DEPENDENCIAS) Tj
+/F2 18.00 Tf
+( FUNCIONALES) Tj
+/F2 18.00 Tf
+( \(DF\)) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 692.39 Tm
+/F2 14.50 Tf
+(7.1. Definicion) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 673.39 Tm
+/F1 10.50 Tf
+(Una) Tj
+/F1 10.50 Tf
+( dependencia) Tj
+/F1 10.50 Tf
+( funcional) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( restriccion) Tj
+/F1 10.50 Tf
+( unidireccional) Tj
+/F1 10.50 Tf
+( entre) Tj
+/F1 10.50 Tf
+( dos) Tj
+/F1 10.50 Tf
+( conjuntos) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( atributos:) Tj
+/F1 10.50 Tf
+( X) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 659.39 Tm
+/F1 10.50 Tf
+(determina) Tj
+/F1 10.50 Tf
+( funcionalmente) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( si,) Tj
+/F1 10.50 Tf
+( siempre) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( dos) Tj
+/F1 10.50 Tf
+( filas) Tj
+/F1 10.50 Tf
+( coinciden) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( X,) Tj
+/F1 10.50 Tf
+( OBLIGATORIAMENTE) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 645.39 Tm
+/F1 10.50 Tf
+(coinciden) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( Y.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 627.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Para) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( existe) Tj
+/F1 10.50 Tf
+( uno) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( Y.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 613.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(X) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( determinante) Tj
+/F1 10.50 Tf
+( \(el) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( manda\);) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( dependiente) Tj
+/F1 10.50 Tf
+( \(el) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( sigue\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 599.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Es) Tj
+/F1 10.50 Tf
+( UNIDIRECCIONAL:) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( implica) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( X.) Tj
+/F1 10.50 Tf
+( \(El) Tj
+/F1 10.50 Tf
+( DNI) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( Nombre,) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( Nombre) Tj
+/F1 10.50 Tf
+( no) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 585.39 Tm
+/F1 10.50 Tf
+(determina) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( DNI.\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 571.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Si) Tj
+/F1 10.50 Tf
+( encuentras) Tj
+/F1 10.50 Tf
+( dos) Tj
+/F1 10.50 Tf
+( filas) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( igual) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( distinto) Tj
+/F1 10.50 Tf
+( Y,) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( cumple:) Tj
+/F1 10.50 Tf
+( estado) Tj
+/F1 10.50 Tf
+( ilegal/inconsistente.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 543.39 Tm
+/F2 14.50 Tf
+(7.2. Para que sirven) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 524.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Identificar) Tj
+/F1 10.50 Tf
+( claves:) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( funcionalmente) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( TODOS) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 510.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Detectar) Tj
+/F1 10.50 Tf
+( redundancia) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( evitar) Tj
+/F1 10.50 Tf
+( anomalias) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( insercion,) Tj
+/F1 10.50 Tf
+( actualizacion) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( borrado.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 496.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Base) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( normalizacion.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 468.39 Tm
+/F2 14.50 Tf
+(7.3. Tipos de DF) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 449.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Trivial:) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( donde) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( contenido) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( \(p.) Tj
+/F1 10.50 Tf
+( ej.) Tj
+/F1 10.50 Tf
+( AB) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( A\).) Tj
+/F1 10.50 Tf
+( Siempre) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( cumple,) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( aporta) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 435.39 Tm
+/F1 10.50 Tf
+(informacion.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 421.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(No) Tj
+/F2 10.50 Tf
+( trivial:) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( contenido) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( X.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 407.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Parcial:) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( SOLO) Tj
+/F1 10.50 Tf
+( UNA) Tj
+/F1 10.50 Tf
+( PARTE) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( compuesta.) Tj
+/F1 10.50 Tf
+( \(Problema) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 393.39 Tm
+/F1 10.50 Tf
+(de) Tj
+/F1 10.50 Tf
+( 2FN.\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 379.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Transitiva:) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( \(X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y,) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z,) Tj
+/F1 10.50 Tf
+( luego) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 365.39 Tm
+/F1 10.50 Tf
+(\(Problema) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( 3FN.\)) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 337.39 Tm
+/F2 14.50 Tf
+(7.4. Anomalias que evita una buena DF) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 318.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Insercion:) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( poder) Tj
+/F1 10.50 Tf
+( anadir) Tj
+/F1 10.50 Tf
+( datos) Tj
+/F1 10.50 Tf
+( por) Tj
+/F1 10.50 Tf
+( faltar) Tj
+/F1 10.50 Tf
+( otros) Tj
+/F1 10.50 Tf
+( obligatorios.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 304.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Actualizacion:) Tj
+/F1 10.50 Tf
+( cambiar) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( dato) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( fila) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( olvidarlo) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( sus) Tj
+/F1 10.50 Tf
+( repeticiones) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( inconsistencia.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 290.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Borrado:) Tj
+/F1 10.50 Tf
+( perder) Tj
+/F1 10.50 Tf
+( informacion) Tj
+/F1 10.50 Tf
+( util) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( eliminar) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( registro.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 272.39 Tm
+/F1 10.50 Tf
+(El) Tj
+/F1 10.50 Tf
+( "sindrome) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( hoja) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( calculo") Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( gigante) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( redundancia) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( sin) Tj
+/F1 10.50 Tf
+( validacion;) Tj
+/F1 10.50 Tf
+( la) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 258.39 Tm
+/F1 10.50 Tf
+(normalizacion) Tj
+/F1 10.50 Tf
+( lo) Tj
+/F1 10.50 Tf
+( cura.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 244.89 m 539.28 244.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 206.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 8.) Tj
+/F2 18.00 Tf
+( AXIOMAS) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( ARMSTRONG) Tj
+/F2 18.00 Tf
+( Y) Tj
+/F2 18.00 Tf
+( REGLAS) Tj
+ET
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 183.89 Tm
+/F2 18.00 Tf
+(DERIVADAS) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 152.39 Tm
+/F2 14.50 Tf
+(8.1. Axiomas basicos \(1974\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 133.39 Tm
+/F2 10.50 Tf
+(1. ) Tj
+/F2 10.50 Tf
+(Reflexividad:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( contenido) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( X,) Tj
+/F1 10.50 Tf
+( entonces) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y.) Tj
+/F1 10.50 Tf
+( \(Genera) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( triviales.\)) Tj
+/F1 10.50 Tf
+( Por) Tj
+/F1 10.50 Tf
+( eso) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( cierre) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 74.00 119.39 Tm
+/F1 10.50 Tf
+(empieza) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( X+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( \(un) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( mismo\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 105.39 Tm
+/F2 10.50 Tf
+(2. ) Tj
+/F2 10.50 Tf
+(Aumento:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y,) Tj
+/F1 10.50 Tf
+( entonces) Tj
+/F1 10.50 Tf
+( XZ) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( YZ) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( cualquier) Tj
+/F1 10.50 Tf
+( Z.) Tj
+/F1 10.50 Tf
+( \(Si) Tj
+/F1 10.50 Tf
+( conozco) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( conozco) Tj
+/F1 10.50 Tf
+( Y;) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( ademas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 74.00 91.39 Tm
+/F1 10.50 Tf
+(conozco) Tj
+/F1 10.50 Tf
+( Z,) Tj
+/F1 10.50 Tf
+( sigo) Tj
+/F1 10.50 Tf
+( conociendo) Tj
+/F1 10.50 Tf
+( todo.\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 77.39 Tm
+/F2 10.50 Tf
+(3. ) Tj
+/F2 10.50 Tf
+(Transitividad:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( e) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z,) Tj
+/F1 10.50 Tf
+( entonces) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z.) Tj
+/F1 10.50 Tf
+( \(Eslabon) Tj
+/F1 10.50 Tf
+( intermedio) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( conecta) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( extremos.\)) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 11395 >>
+stream
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 771.39 Tm
+/F2 14.50 Tf
+(8.2. Reglas derivadas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 752.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Union:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z,) Tj
+/F1 10.50 Tf
+( entonces) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( YZ.) Tj
+/F1 10.50 Tf
+( \(Mismo) Tj
+/F1 10.50 Tf
+( determinante;) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( fusionan) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( dependientes.\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 738.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Descomposicion:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( YZ,) Tj
+/F1 10.50 Tf
+( entonces) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z.) Tj
+/F1 10.50 Tf
+( \(Es) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( inversa) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( union.\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 724.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Pseudotransitividad:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( WY) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z,) Tj
+/F1 10.50 Tf
+( entonces) Tj
+/F1 10.50 Tf
+( WX) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Z.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 706.39 Tm
+/F1 10.50 Tf
+(Estas) Tj
+/F1 10.50 Tf
+( reglas) Tj
+/F1 10.50 Tf
+( permiten) Tj
+/F1 10.50 Tf
+( deducir) Tj
+/F1 10.50 Tf
+( nuevas) Tj
+/F1 10.50 Tf
+( DF,) Tj
+/F1 10.50 Tf
+( simplificar) Tj
+/F1 10.50 Tf
+( esquemas) Tj
+/F1 10.50 Tf
+( \(dependencias) Tj
+/F1 10.50 Tf
+( reducidas\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( calcular) Tj
+/F1 10.50 Tf
+( el) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 692.39 Tm
+/F1 10.50 Tf
+(cierre.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 678.89 m 539.28 678.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 640.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 9.) Tj
+/F2 18.00 Tf
+( CIERRE) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( ATRIBUTOS) Tj
+/F2 18.00 Tf
+( \(X+\)) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 609.39 Tm
+/F2 14.50 Tf
+(9.1. Que es) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 590.39 Tm
+/F1 10.50 Tf
+(El) Tj
+/F1 10.50 Tf
+( cierre) Tj
+/F1 10.50 Tf
+( X+) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( conjunto) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( TODOS) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( pueden) Tj
+/F1 10.50 Tf
+( determinar) Tj
+/F1 10.50 Tf
+( funcionalmente) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( partir) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 576.39 Tm
+/F1 10.50 Tf
+(de) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( bajo) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( conjunto) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( DF.) Tj
+/F1 10.50 Tf
+( Es) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( "lista) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( todo) Tj
+/F1 10.50 Tf
+( lo) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( puedes) Tj
+/F1 10.50 Tf
+( conocer) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( conoces) Tj
+/F1 10.50 Tf
+( X".) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 548.39 Tm
+/F2 14.50 Tf
+(9.2. Algoritmo paso a paso) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 529.39 Tm
+/F2 10.50 Tf
+(1. ) Tj
+/F2 10.50 Tf
+(Inicializar:) Tj
+/F1 10.50 Tf
+( X+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( \(por) Tj
+/F1 10.50 Tf
+( reflexividad,) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( mismo\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 515.39 Tm
+/F2 10.50 Tf
+(2. ) Tj
+/F2 10.50 Tf
+(Expandir:) Tj
+/F1 10.50 Tf
+( recorre) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( DF.) Tj
+/F1 10.50 Tf
+( Si) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( izquierdo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( ya) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( contenido) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( X+,) Tj
+/F1 10.50 Tf
+( anade) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( lado) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 74.00 501.39 Tm
+/F1 10.50 Tf
+(derecho) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( X+.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 487.39 Tm
+/F2 10.50 Tf
+(3. ) Tj
+/F2 10.50 Tf
+(Repetir:) Tj
+/F1 10.50 Tf
+( vuelve) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( recorrer) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( DF;) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( crecer) Tj
+/F1 10.50 Tf
+( X+) Tj
+/F1 10.50 Tf
+( puedes) Tj
+/F1 10.50 Tf
+( desbloquear) Tj
+/F1 10.50 Tf
+( nuevas) Tj
+/F1 10.50 Tf
+( DF.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 473.39 Tm
+/F2 10.50 Tf
+(4. ) Tj
+/F2 10.50 Tf
+(Parar:) Tj
+/F1 10.50 Tf
+( cuando) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( pasada) Tj
+/F1 10.50 Tf
+( completa) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( anade) Tj
+/F1 10.50 Tf
+( nada) Tj
+/F1 10.50 Tf
+( nuevo.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 445.39 Tm
+/F2 14.50 Tf
+(9.3. La "prueba de la clave") Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 426.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Si) Tj
+/F1 10.50 Tf
+( X+) Tj
+/F1 10.50 Tf
+( contiene) Tj
+/F1 10.50 Tf
+( TODOS) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( SUPERCLAVE.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 412.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Si) Tj
+/F1 10.50 Tf
+( ademas) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( minimo) Tj
+/F1 10.50 Tf
+( \(ningun) Tj
+/F1 10.50 Tf
+( subconjunto) Tj
+/F1 10.50 Tf
+( propio) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( todo\)) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( CLAVE) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 398.39 Tm
+/F1 10.50 Tf
+(CANDIDATA.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 384.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Si) Tj
+/F1 10.50 Tf
+( X+) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( contiene) Tj
+/F1 10.50 Tf
+( todos) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( \(solo) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( cierre:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 370.39 Tm
+/F1 10.50 Tf
+(dependencias) Tj
+/F1 10.50 Tf
+( reducidas\).) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 356.89 m 539.28 356.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 318.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 10.) Tj
+/F2 18.00 Tf
+( CLAVES) Tj
+/F2 18.00 Tf
+( Y) Tj
+/F2 18.00 Tf
+( TIPOS) Tj
+/F2 18.00 Tf
+( DE) Tj
+/F2 18.00 Tf
+( ATRIBUTOS) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 287.39 Tm
+/F2 14.50 Tf
+(10.1. Tipos de clave) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 268.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Superclave:) Tj
+/F1 10.50 Tf
+( conjunto) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( identifica) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( unica) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( fila) Tj
+/F1 10.50 Tf
+( \(puede) Tj
+/F1 10.50 Tf
+( tener) Tj
+/F1 10.50 Tf
+( atributos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 254.39 Tm
+/F1 10.50 Tf
+(sobrantes\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 240.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Clave) Tj
+/F2 10.50 Tf
+( candidata:) Tj
+/F1 10.50 Tf
+( superclave) Tj
+/F1 10.50 Tf
+( MINIMA) Tj
+/F1 10.50 Tf
+( \(sin) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( sobrantes\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 226.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Clave) Tj
+/F2 10.50 Tf
+( primaria:) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata) Tj
+/F1 10.50 Tf
+( elegida) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( identificador) Tj
+/F1 10.50 Tf
+( oficial;) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( NOT) Tj
+/F1 10.50 Tf
+( NULL) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( unica.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 212.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Clave) Tj
+/F2 10.50 Tf
+( alternativa:) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( claves) Tj
+/F1 10.50 Tf
+( candidatas) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( elegidas) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( primaria.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 198.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Clave) Tj
+/F2 10.50 Tf
+( foranea) Tj
+/F2 10.50 Tf
+( \(FK\):) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( referencia) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( otra) Tj
+/F1 10.50 Tf
+( \(o) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( misma\)) Tj
+/F1 10.50 Tf
+( tabla.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 180.39 Tm
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( {DNI}) Tj
+/F1 10.50 Tf
+( identifica) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( persona,) Tj
+/F1 10.50 Tf
+( entonces) Tj
+/F1 10.50 Tf
+( {DNI,) Tj
+/F1 10.50 Tf
+( Color_Ojos}) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( superclave) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( NO) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 166.39 Tm
+/F1 10.50 Tf
+(candidata) Tj
+/F1 10.50 Tf
+( \(le) Tj
+/F1 10.50 Tf
+( sobra) Tj
+/F1 10.50 Tf
+( Color_Ojos\).) Tj
+/F1 10.50 Tf
+( {DNI}) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 138.39 Tm
+/F2 14.50 Tf
+(10.2. Atributo primo vs no primo) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 119.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Primo:) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( ALGUNA) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 105.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(No) Tj
+/F2 10.50 Tf
+( primo:) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( ninguna) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata) Tj
+/F1 10.50 Tf
+( \(atributo) Tj
+/F1 10.50 Tf
+( puramente) Tj
+/F1 10.50 Tf
+( descriptivo\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 87.39 Tm
+/F1 10.50 Tf
+(REGLA) Tj
+/F1 10.50 Tf
+( DE) Tj
+/F1 10.50 Tf
+( ORO:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( TODOS) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( son) Tj
+/F1 10.50 Tf
+( primos,) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( automaticamente) Tj
+/F1 10.50 Tf
+( en) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 73.39 Tm
+/F1 10.50 Tf
+(3FN) Tj
+/F1 10.50 Tf
+( \(las) Tj
+/F1 10.50 Tf
+( reglas) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( 2FN) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( 3FN) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( restringen) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( primos\).) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 11492 >>
+stream
+0.6 0.6 0.6 RG
+0.5 w
+56.00 779.89 m 539.28 779.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 741.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 11.) Tj
+/F2 18.00 Tf
+( NORMALIZACION) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 720.39 Tm
+/F1 10.50 Tf
+(Proceso) Tj
+/F1 10.50 Tf
+( escalonado) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( estructura) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( tablas) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( eliminar) Tj
+/F1 10.50 Tf
+( redundancia) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( anomalias.) Tj
+/F1 10.50 Tf
+( Cada) Tj
+/F1 10.50 Tf
+( forma) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 706.39 Tm
+/F1 10.50 Tf
+(normal) Tj
+/F1 10.50 Tf
+( exige) Tj
+/F1 10.50 Tf
+( cumplir) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( anterior.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 678.39 Tm
+/F2 14.50 Tf
+(11.1. Primera Forma Normal \(1FN\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 659.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( aplica) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( TODA) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( \(clave) Tj
+/F1 10.50 Tf
+( simple) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( compuesta\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 645.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Exige) Tj
+/F1 10.50 Tf
+( atomicidad:) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( celda) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( unico) Tj
+/F1 10.50 Tf
+( valor) Tj
+/F1 10.50 Tf
+( indivisible;) Tj
+/F1 10.50 Tf
+( sin) Tj
+/F1 10.50 Tf
+( listas) Tj
+/F1 10.50 Tf
+( ni) Tj
+/F1 10.50 Tf
+( grupos) Tj
+/F1 10.50 Tf
+( repetidos.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 631.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( multivaluados) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( extraen) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( aparte.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 603.39 Tm
+/F2 14.50 Tf
+(11.2. Segunda Forma Normal \(2FN\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 584.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 1FN) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( ningun) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( PARCIALMENTE) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( \(debe) Tj
+/F1 10.50 Tf
+( depender) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 570.39 Tm
+/F1 10.50 Tf
+(clave) Tj
+/F1 10.50 Tf
+( COMPLETA\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 556.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Solo) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( violarse) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( compuesta.) Tj
+/F1 10.50 Tf
+( Con) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( simple,) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( 2FN) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( automatica) Tj
+/F1 10.50 Tf
+( \(no) Tj
+/F1 10.50 Tf
+( hay) Tj
+/F1 10.50 Tf
+( "partes") Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 542.39 Tm
+/F1 10.50 Tf
+(de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 528.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Solucion:) Tj
+/F1 10.50 Tf
+( separar) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( trozo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( causa) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( dependencia) Tj
+/F1 10.50 Tf
+( parcial) Tj
+/F1 10.50 Tf
+( junto) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( el) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 514.39 Tm
+/F1 10.50 Tf
+(atributo) Tj
+/F1 10.50 Tf
+( dependiente.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 496.39 Tm
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( REGALA\(Codigo_Regalo,) Tj
+/F1 10.50 Tf
+( DNI\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( Nombre_Regalo.) Tj
+/F1 10.50 Tf
+( Nombre_Regalo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( de) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 482.39 Tm
+/F1 10.50 Tf
+(Codigo_Regalo) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( dependencia) Tj
+/F1 10.50 Tf
+( parcial.) Tj
+/F1 10.50 Tf
+( Se) Tj
+/F1 10.50 Tf
+( separa) Tj
+/F1 10.50 Tf
+( REGALO\(Codigo_Regalo,) Tj
+/F1 10.50 Tf
+( Nombre_Regalo\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 454.39 Tm
+/F2 14.50 Tf
+(11.3. Tercera Forma Normal \(3FN\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 435.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 2FN) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( ningun) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( TRANSITIVAMENTE) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( \(ningun) Tj
+/F1 10.50 Tf
+( atributo) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 421.39 Tm
+/F1 10.50 Tf
+(no) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primo\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 407.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Relevante) Tj
+/F1 10.50 Tf
+( tambien) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( simple.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 393.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Atajo:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( todos) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( son) Tj
+/F1 10.50 Tf
+( primos,) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( automaticamente) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 3FN.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 375.39 Tm
+/F1 10.50 Tf
+(Ejemplo:) Tj
+/F1 10.50 Tf
+( Pedido\(ID_Pedido,) Tj
+/F1 10.50 Tf
+( Fecha,) Tj
+/F1 10.50 Tf
+( ID_Cliente,) Tj
+/F1 10.50 Tf
+( Nombre_Cliente\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( ID_Pedido) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( ID_Cliente) Tj
+/F1 10.50 Tf
+( y) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 361.39 Tm
+/F1 10.50 Tf
+(ID_Cliente) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Nombre_Cliente.) Tj
+/F1 10.50 Tf
+( Nombre_Cliente) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( transitivamente) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( ID_Pedido) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( traves) Tj
+/F1 10.50 Tf
+( de) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 347.39 Tm
+/F1 10.50 Tf
+(ID_Cliente.) Tj
+/F1 10.50 Tf
+( Se) Tj
+/F1 10.50 Tf
+( separa) Tj
+/F1 10.50 Tf
+( Cliente\(ID_Cliente,) Tj
+/F1 10.50 Tf
+( Nombre_Cliente\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( Pedido\(ID_Pedido,) Tj
+/F1 10.50 Tf
+( Fecha,) Tj
+/F1 10.50 Tf
+( ID_Cliente) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 333.39 Tm
+/F1 10.50 Tf
+(FK\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 315.39 Tm
+/F1 10.50 Tf
+(Resolucion) Tj
+/F1 10.50 Tf
+( general) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( transitiva) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( B) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( C:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 301.39 Tm
+/F2 10.50 Tf
+(1. ) Tj
+/F1 10.50 Tf
+(Detectar) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( \(clave\)) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( B) Tj
+/F1 10.50 Tf
+( \(no) Tj
+/F1 10.50 Tf
+( primo\)) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( \(no) Tj
+/F1 10.50 Tf
+( primo\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 287.39 Tm
+/F2 10.50 Tf
+(2. ) Tj
+/F1 10.50 Tf
+(Crear) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( nueva) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( B) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( mover) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( alli.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 273.39 Tm
+/F2 10.50 Tf
+(3. ) Tj
+/F1 10.50 Tf
+(En) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( original,) Tj
+/F1 10.50 Tf
+( B) Tj
+/F1 10.50 Tf
+( queda) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( FK.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 245.39 Tm
+/F2 14.50 Tf
+(11.4. Forma Normal de Boyce-Codd \(BCNF, "3.5FN"\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 226.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Version) Tj
+/F1 10.50 Tf
+( mas) Tj
+/F1 10.50 Tf
+( estricta) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( 3FN:) Tj
+/F1 10.50 Tf
+( TODO) Tj
+/F1 10.50 Tf
+( determinante) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( trivial) Tj
+/F1 10.50 Tf
+( debe) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( SUPERCLAVE.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 212.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Diferencia) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( 3FN:) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( 3FN) Tj
+/F1 10.50 Tf
+( permite) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( Y) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( aunque) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( sea) Tj
+/F1 10.50 Tf
+( superclave;) Tj
+/F1 10.50 Tf
+( la) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 198.39 Tm
+/F1 10.50 Tf
+(BCNF) Tj
+/F1 10.50 Tf
+( elimina) Tj
+/F1 10.50 Tf
+( esa) Tj
+/F1 10.50 Tf
+( excepcion.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 184.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Aparece) Tj
+/F1 10.50 Tf
+( tipicamente) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( claves) Tj
+/F1 10.50 Tf
+( candidatas) Tj
+/F1 10.50 Tf
+( compuestas) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( solapadas.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 170.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Verificacion:) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y,) Tj
+/F1 10.50 Tf
+( calcula) Tj
+/F1 10.50 Tf
+( X+.) Tj
+/F1 10.50 Tf
+( Si) Tj
+/F1 10.50 Tf
+( X+) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( contiene) Tj
+/F1 10.50 Tf
+( todos) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos,) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( es) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 156.39 Tm
+/F1 10.50 Tf
+(superclave) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( viola) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( BCNF.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 128.39 Tm
+/F2 14.50 Tf
+(11.5. Resumen de aplicacion) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 107.39 Tm
+/F2 9.50 Tf
+(Forma) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 180.82 107.39 Tm
+/F2 9.50 Tf
+(Clave) Tj
+/F2 9.50 Tf
+( simple) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 301.64 107.39 Tm
+/F2 9.50 Tf
+(Clave) Tj
+/F2 9.50 Tf
+( compuesta) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 107.39 Tm
+/F2 9.50 Tf
+(Requisito) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 91.39 Tm
+/F1 9.50 Tf
+(1FN) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 180.82 91.39 Tm
+/F1 9.50 Tf
+(Si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 301.64 91.39 Tm
+/F1 9.50 Tf
+(Si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 91.39 Tm
+/F1 9.50 Tf
+(Valores) Tj
+/F1 9.50 Tf
+( atomicos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 75.39 Tm
+/F1 9.50 Tf
+(2FN) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 180.82 75.39 Tm
+/F1 9.50 Tf
+(Automatica) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 301.64 75.39 Tm
+/F1 9.50 Tf
+(Si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 75.39 Tm
+/F1 9.50 Tf
+(Sin) Tj
+/F1 9.50 Tf
+( dependencias) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 63.39 Tm
+/F1 9.50 Tf
+(parciales) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 10748 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 776.39 Tm
+/F1 9.50 Tf
+(3FN) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 180.82 776.39 Tm
+/F1 9.50 Tf
+(Si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 301.64 776.39 Tm
+/F1 9.50 Tf
+(Si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 776.39 Tm
+/F1 9.50 Tf
+(Sin) Tj
+/F1 9.50 Tf
+( dependencias) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 764.39 Tm
+/F1 9.50 Tf
+(transitivas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 60.00 748.39 Tm
+/F1 9.50 Tf
+(BCNF) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 180.82 748.39 Tm
+/F1 9.50 Tf
+(Si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 301.64 748.39 Tm
+/F1 9.50 Tf
+(Si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 748.39 Tm
+/F1 9.50 Tf
+(Todo) Tj
+/F1 9.50 Tf
+( determinante) Tj
+/F1 9.50 Tf
+( es) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 422.46 736.39 Tm
+/F1 9.50 Tf
+(superclave) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 715.89 m 539.28 715.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 677.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 12.) Tj
+/F2 18.00 Tf
+( DESNORMALIZACION) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 656.39 Tm
+/F1 10.50 Tf
+(Estrategia) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( OPTIMIZACION) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( anade) Tj
+/F1 10.50 Tf
+( redundancia) Tj
+/F1 10.50 Tf
+( DELIBERADA) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( esquema) Tj
+/F1 10.50 Tf
+( ya) Tj
+/F1 10.50 Tf
+( normalizado) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 642.39 Tm
+/F1 10.50 Tf
+(para) Tj
+/F1 10.50 Tf
+( acelerar) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( lectura.) Tj
+/F1 10.50 Tf
+( No) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( mal) Tj
+/F1 10.50 Tf
+( diseno:) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( fuente) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( verdad) Tj
+/F1 10.50 Tf
+( siguen) Tj
+/F1 10.50 Tf
+( siendo) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( tablas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 628.39 Tm
+/F1 10.50 Tf
+(normalizadas.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 600.39 Tm
+/F2 14.50 Tf
+(12.1. Cuando aplicarla) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 581.39 Tm
+/F1 10.50 Tf
+(Cuando) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( rendimiento) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( lectura) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( critico) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( resuelve) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( indices) Tj
+/F1 10.50 Tf
+( ni) Tj
+/F1 10.50 Tf
+( cache:) Tj
+/F1 10.50 Tf
+( cargas) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( muchas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 567.39 Tm
+/F1 10.50 Tf
+(lecturas,) Tj
+/F1 10.50 Tf
+( uniones) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( abanico) Tj
+/F1 10.50 Tf
+( \(3-5) Tj
+/F1 10.50 Tf
+( tablas\),) Tj
+/F1 10.50 Tf
+( agregaciones) Tj
+/F1 10.50 Tf
+( constantes,) Tj
+/F1 10.50 Tf
+( SLAs) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( milisegundos.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 539.39 Tm
+/F2 14.50 Tf
+(12.2. Tecnicas) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 520.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Columnas) Tj
+/F2 10.50 Tf
+( redundantes:) Tj
+/F1 10.50 Tf
+( copiar) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( muy) Tj
+/F1 10.50 Tf
+( consultado) Tj
+/F1 10.50 Tf
+( \(nombre_cliente) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( Pedidos\)) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( evitar) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 506.39 Tm
+/F1 10.50 Tf
+(joins.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 492.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Atributos) Tj
+/F2 10.50 Tf
+( derivados) Tj
+/F2 10.50 Tf
+( /) Tj
+/F2 10.50 Tf
+( contadores:) Tj
+/F1 10.50 Tf
+( guardar) Tj
+/F1 10.50 Tf
+( valores) Tj
+/F1 10.50 Tf
+( calculados) Tj
+/F1 10.50 Tf
+( \(total) Tj
+/F1 10.50 Tf
+( factura,) Tj
+/F1 10.50 Tf
+( like_count,) Tj
+/F1 10.50 Tf
+( item_count\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 478.39 Tm
+/F1 10.50 Tf
+(Se) Tj
+/F1 10.50 Tf
+( mantienen) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( triggers) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( columnas) Tj
+/F1 10.50 Tf
+( calculadas.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 464.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Tablas) Tj
+/F2 10.50 Tf
+( agregadas) Tj
+/F2 10.50 Tf
+( /) Tj
+/F2 10.50 Tf
+( aplanadas:) Tj
+/F1 10.50 Tf
+( precalcular) Tj
+/F1 10.50 Tf
+( resumenes) Tj
+/F1 10.50 Tf
+( \(ventas) Tj
+/F1 10.50 Tf
+( diarias\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 450.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F2 10.50 Tf
+(Vista) Tj
+/F2 10.50 Tf
+( materializada:) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( fisica) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( almacena) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( resultado) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( consulta) Tj
+/F1 10.50 Tf
+( costosa.) Tj
+/F1 10.50 Tf
+( Se) Tj
+/F1 10.50 Tf
+( puede) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 436.39 Tm
+/F1 10.50 Tf
+(indexar.) Tj
+/F1 10.50 Tf
+( Hay) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( refrescarla) Tj
+/F1 10.50 Tf
+( \(completa,) Tj
+/F1 10.50 Tf
+( incremental) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( programada\).) Tj
+/F1 10.50 Tf
+( Oracle) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( Query) Tj
+/F1 10.50 Tf
+( Rewrite;) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 422.39 Tm
+/F1 10.50 Tf
+(PostgreSQL) Tj
+/F1 10.50 Tf
+( permite) Tj
+/F1 10.50 Tf
+( refresco) Tj
+/F1 10.50 Tf
+( concurrente.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 394.39 Tm
+/F2 14.50 Tf
+(12.3. Antes de desnormalizar \(alternativas\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 375.39 Tm
+/F1 10.50 Tf
+(Indices) Tj
+/F1 10.50 Tf
+( \(compuestos) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( cobertura\),) Tj
+/F1 10.50 Tf
+( ajuste) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( consultas) Tj
+/F1 10.50 Tf
+( \(evitar) Tj
+/F1 10.50 Tf
+( SELECT) Tj
+/F1 10.50 Tf
+( *,) Tj
+/F1 10.50 Tf
+( paginar\),) Tj
+/F1 10.50 Tf
+( cache) Tj
+/F1 10.50 Tf
+( \(Redis\),) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 361.39 Tm
+/F1 10.50 Tf
+(replicas) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( lectura.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 333.39 Tm
+/F2 14.50 Tf
+(12.4. Costes) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 314.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Amplificacion) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( escritura) Tj
+/F1 10.50 Tf
+( \(mantener) Tj
+/F1 10.50 Tf
+( sincronizadas) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( copias\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 300.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Riesgo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( inconsistencia) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( falla) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( sincronizacion.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 286.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Mayor) Tj
+/F1 10.50 Tf
+( uso) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( almacenamiento.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 272.89 m 539.28 272.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 230.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 13.) Tj
+/F2 18.00 Tf
+( EJERCICIOS) Tj
+/F2 18.00 Tf
+( PRACTICOS) Tj
+/F2 18.00 Tf
+( TIPO) Tj
+/F2 18.00 Tf
+( EXAMEN) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 209.39 Tm
+/F1 10.50 Tf
+(Resuelve) Tj
+/F1 10.50 Tf
+( primero) Tj
+/F1 10.50 Tf
+( por) Tj
+/F1 10.50 Tf
+( tu) Tj
+/F1 10.50 Tf
+( cuenta) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( luego) Tj
+/F1 10.50 Tf
+( comprueba) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( soluciones) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( Bloque) Tj
+/F1 10.50 Tf
+( 14.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 181.39 Tm
+/F2 14.50 Tf
+(PARTE A. Identificar dependencias funcionales a partir de un enunciado) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 162.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( A1.) Tj
+/F1 10.50 Tf
+( Una) Tj
+/F1 10.50 Tf
+( empresa) Tj
+/F1 10.50 Tf
+( guarda) Tj
+/F1 10.50 Tf
+( datos) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( empleados:) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( empleado) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( DNI) Tj
+/F1 10.50 Tf
+( unico,) Tj
+/F1 10.50 Tf
+( un) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 148.39 Tm
+/F1 10.50 Tf
+(nombre,) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( pertenece) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( unico) Tj
+/F1 10.50 Tf
+( departamento.) Tj
+/F1 10.50 Tf
+( Cada) Tj
+/F1 10.50 Tf
+( departamento) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( codigo) Tj
+/F1 10.50 Tf
+( unico,) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( nombre) Tj
+/F1 10.50 Tf
+( y) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 134.39 Tm
+/F1 10.50 Tf
+(un) Tj
+/F1 10.50 Tf
+( unico) Tj
+/F1 10.50 Tf
+( jefe) Tj
+/F1 10.50 Tf
+( \(que) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( empleado\).) Tj
+/F1 10.50 Tf
+( Escribe) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( dependencias) Tj
+/F1 10.50 Tf
+( funcionales) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( deducen) Tj
+/F1 10.50 Tf
+( del) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 120.39 Tm
+/F1 10.50 Tf
+(enunciado) Tj
+/F1 10.50 Tf
+( sobre) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( esquema) Tj
+/F1 10.50 Tf
+( EMPLEADO\(DNI,) Tj
+/F1 10.50 Tf
+( Nombre,) Tj
+/F1 10.50 Tf
+( CodDpto,) Tj
+/F1 10.50 Tf
+( NombreDpto,) Tj
+/F1 10.50 Tf
+( DNI_Jefe\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 102.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( A2.) Tj
+/F1 10.50 Tf
+( En) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( clinica:) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( cita) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( identificador) Tj
+/F1 10.50 Tf
+( unico;) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( cita) Tj
+/F1 10.50 Tf
+( corresponde) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( paciente) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 88.39 Tm
+/F1 10.50 Tf
+(\(con) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( numero) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( historia) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( nombre\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( medico) Tj
+/F1 10.50 Tf
+( \(con) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( numero) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( colegiado) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( especialidad\);) Tj
+/F1 10.50 Tf
+( para) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 74.39 Tm
+/F1 10.50 Tf
+(una) Tj
+/F1 10.50 Tf
+( cita) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( registran) Tj
+/F1 10.50 Tf
+( fecha) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( hora.) Tj
+/F1 10.50 Tf
+( Sobre) Tj
+/F1 10.50 Tf
+( CITA\(IdCita,) Tj
+/F1 10.50 Tf
+( NumHistoria,) Tj
+/F1 10.50 Tf
+( NombrePaciente,) Tj
+/F1 10.50 Tf
+( NumColegiado,) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 60.39 Tm
+/F1 10.50 Tf
+(Especialidad,) Tj
+/F1 10.50 Tf
+( Fecha,) Tj
+/F1 10.50 Tf
+( Hora\),) Tj
+/F1 10.50 Tf
+( indica) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( DF.) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Length 13365 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 771.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( A3.) Tj
+/F1 10.50 Tf
+( En) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( instituto,) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( alumno) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( matricula) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( varias) Tj
+/F1 10.50 Tf
+( asignaturas) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( asignatura) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 757.39 Tm
+/F1 10.50 Tf
+(obtiene) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( nota.) Tj
+/F1 10.50 Tf
+( Cada) Tj
+/F1 10.50 Tf
+( asignatura) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( imparte) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( unico) Tj
+/F1 10.50 Tf
+( profesor.) Tj
+/F1 10.50 Tf
+( Sobre) Tj
+/F1 10.50 Tf
+( MATRICULA\(IdAlumno,) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 743.39 Tm
+/F1 10.50 Tf
+(NombreAlumno,) Tj
+/F1 10.50 Tf
+( IdAsignatura,) Tj
+/F1 10.50 Tf
+( NombreAsignatura,) Tj
+/F1 10.50 Tf
+( Nota,) Tj
+/F1 10.50 Tf
+( IdProfesor\),) Tj
+/F1 10.50 Tf
+( escribe) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( di) Tj
+/F1 10.50 Tf
+( cuales) Tj
+/F1 10.50 Tf
+( son) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 729.39 Tm
+/F1 10.50 Tf
+(parciales) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( cuales) Tj
+/F1 10.50 Tf
+( transitivas.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 701.39 Tm
+/F2 14.50 Tf
+(PARTE B. Calcular el cierre de atributos y hallar claves) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 682.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( B1.) Tj
+/F1 10.50 Tf
+( R\(A,) Tj
+/F1 10.50 Tf
+( B,) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( D,) Tj
+/F1 10.50 Tf
+( E\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( B,) Tj
+/F1 10.50 Tf
+( B) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( D,) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( E) Tj
+/F1 10.50 Tf
+( }.) Tj
+/F1 10.50 Tf
+( Calcula) Tj
+/F1 10.50 Tf
+( A+) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( di) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( clave) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 668.39 Tm
+/F1 10.50 Tf
+(candidata.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 650.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( B2.) Tj
+/F1 10.50 Tf
+( R\(A,) Tj
+/F1 10.50 Tf
+( B,) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( D\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( AB) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( D,) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( }.) Tj
+/F1 10.50 Tf
+( Calcula) Tj
+/F1 10.50 Tf
+( \(AB\)+,) Tj
+/F1 10.50 Tf
+( \(BC\)+) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( \(BD\)+.) Tj
+/F1 10.50 Tf
+( Indica) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 636.39 Tm
+/F1 10.50 Tf
+(todas) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( claves) Tj
+/F1 10.50 Tf
+( candidatas) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( clasifica) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( primos) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primos.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 618.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( B3.) Tj
+/F1 10.50 Tf
+( R\(A,) Tj
+/F1 10.50 Tf
+( B,) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( D,) Tj
+/F1 10.50 Tf
+( E,) Tj
+/F1 10.50 Tf
+( G\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( BC,) Tj
+/F1 10.50 Tf
+( CD) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( E,) Tj
+/F1 10.50 Tf
+( B) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( D,) Tj
+/F1 10.50 Tf
+( E) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( }.) Tj
+/F1 10.50 Tf
+( Calcula) Tj
+/F1 10.50 Tf
+( \(A\)+) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( \(E\)+.) Tj
+/F1 10.50 Tf
+( Es) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 604.39 Tm
+/F1 10.50 Tf
+({A}) Tj
+/F1 10.50 Tf
+( superclave?) Tj
+/F1 10.50 Tf
+( Es) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata?) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 576.39 Tm
+/F2 14.50 Tf
+(PARTE C. Normalizar \(2FN, 3FN, BCNF\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 557.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( C1.) Tj
+/F1 10.50 Tf
+( Dada) Tj
+/F1 10.50 Tf
+( VENTA\(NumFactura,) Tj
+/F1 10.50 Tf
+( Fecha,) Tj
+/F1 10.50 Tf
+( CodCliente,) Tj
+/F1 10.50 Tf
+( NombreCliente,) Tj
+/F1 10.50 Tf
+( CodProducto,) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 543.39 Tm
+/F1 10.50 Tf
+(NombreProducto,) Tj
+/F1 10.50 Tf
+( Cantidad\),) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( DF:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 529.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(NumFactura) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Fecha,) Tj
+/F1 10.50 Tf
+( CodCliente) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 515.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(CodCliente) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombreCliente) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 501.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(CodProducto) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombreProducto) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 487.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(NumFactura,) Tj
+/F1 10.50 Tf
+( CodProducto) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Cantidad) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 469.39 Tm
+/F1 10.50 Tf
+(Indica) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave,) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( normal) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( normaliza) Tj
+/F1 10.50 Tf
+( hasta) Tj
+/F1 10.50 Tf
+( 3FN.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 451.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( C2.) Tj
+/F1 10.50 Tf
+( Dada) Tj
+/F1 10.50 Tf
+( R\(A,) Tj
+/F1 10.50 Tf
+( B,) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( D\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( AB) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( D,) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( B) Tj
+/F1 10.50 Tf
+( }.) Tj
+/F1 10.50 Tf
+( Determina) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( claves,) Tj
+/F1 10.50 Tf
+( los) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 437.39 Tm
+/F1 10.50 Tf
+(atributos) Tj
+/F1 10.50 Tf
+( primos) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( di) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( normal) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( \(2FN/3FN/BCNF\).) Tj
+/F1 10.50 Tf
+( Justifica.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 419.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( C3.) Tj
+/F1 10.50 Tf
+( Dada) Tj
+/F1 10.50 Tf
+( INSCRIPCION\(IdEstudiante,) Tj
+/F1 10.50 Tf
+( IdCurso,) Tj
+/F1 10.50 Tf
+( NombreCurso,) Tj
+/F1 10.50 Tf
+( NombreProfesor,) Tj
+/F1 10.50 Tf
+( Aula\),) Tj
+/F1 10.50 Tf
+( con:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 405.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(IdEstudiante,) Tj
+/F1 10.50 Tf
+( IdCurso) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( nada) Tj
+/F1 10.50 Tf
+( propio) Tj
+/F1 10.50 Tf
+( adicional) Tj
+/F1 10.50 Tf
+( \(solo) Tj
+/F1 10.50 Tf
+( registra) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( inscripcion\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 391.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(IdCurso) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombreCurso,) Tj
+/F1 10.50 Tf
+( NombreProfesor,) Tj
+/F1 10.50 Tf
+( Aula) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 373.39 Tm
+/F1 10.50 Tf
+(Halla) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave,) Tj
+/F1 10.50 Tf
+( di) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( forma) Tj
+/F1 10.50 Tf
+( normal) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( normaliza) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( 3FN.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 355.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( C4) Tj
+/F2 10.50 Tf
+( \(BCNF\).) Tj
+/F1 10.50 Tf
+( R\(Estudiante,) Tj
+/F1 10.50 Tf
+( Asignatura,) Tj
+/F1 10.50 Tf
+( Profesor\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( reglas:) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( profesor) Tj
+/F1 10.50 Tf
+( imparte) Tj
+/F1 10.50 Tf
+( una) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 341.39 Tm
+/F1 10.50 Tf
+(sola) Tj
+/F1 10.50 Tf
+( asignatura;) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( asignatura) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( estudiante) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( profesor.) Tj
+/F1 10.50 Tf
+( DF:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 327.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Estudiante,) Tj
+/F1 10.50 Tf
+( Asignatura) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Profesor) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 313.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Profesor) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Asignatura) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 295.39 Tm
+/F1 10.50 Tf
+(Halla) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( claves,) Tj
+/F1 10.50 Tf
+( di) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 3FN) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( BCNF.) Tj
+/F1 10.50 Tf
+( Descompone) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( BCNF) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( hace) Tj
+/F1 10.50 Tf
+( falta.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 267.39 Tm
+/F2 14.50 Tf
+(PARTE D. Diseno conceptual \(E-R / paso a tablas\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 248.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( D1.) Tj
+/F1 10.50 Tf
+( Modela:) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( BIBLIOTECA) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( LIBROS;) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( cada) Tj
+/F1 10.50 Tf
+( libro) Tj
+/F1 10.50 Tf
+( hay) Tj
+/F1 10.50 Tf
+( varios) Tj
+/F1 10.50 Tf
+( EJEMPLARES) Tj
+/F1 10.50 Tf
+( \(un) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 234.39 Tm
+/F1 10.50 Tf
+(ejemplar) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( existe) Tj
+/F1 10.50 Tf
+( sin) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( libro\).) Tj
+/F1 10.50 Tf
+( Un) Tj
+/F1 10.50 Tf
+( SOCIO) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( tomar) Tj
+/F1 10.50 Tf
+( prestados) Tj
+/F1 10.50 Tf
+( varios) Tj
+/F1 10.50 Tf
+( ejemplares) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( ejemplar) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 220.39 Tm
+/F1 10.50 Tf
+(puede) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( prestado) Tj
+/F1 10.50 Tf
+( por) Tj
+/F1 10.50 Tf
+( varios) Tj
+/F1 10.50 Tf
+( socios) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( tiempo,) Tj
+/F1 10.50 Tf
+( guardando) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( fecha) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( prestamo.) Tj
+/F1 10.50 Tf
+( Identifica) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 206.39 Tm
+/F1 10.50 Tf
+(entidades) Tj
+/F1 10.50 Tf
+( fuerte/debil,) Tj
+/F1 10.50 Tf
+( cardinalidades) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( paso) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( tablas.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 188.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( D2.) Tj
+/F1 10.50 Tf
+( En) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( universidad,) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( PERSONA) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( ALUMNO) Tj
+/F1 10.50 Tf
+( y/o) Tj
+/F1 10.50 Tf
+( PROFESOR) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( vez.) Tj
+/F1 10.50 Tf
+( Indica) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 174.39 Tm
+/F1 10.50 Tf
+(el) Tj
+/F1 10.50 Tf
+( tipo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( jerarquia) Tj
+/F1 10.50 Tf
+( \(disyuncion) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( completitud\)) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( pasaria) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( tablas.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 156.39 Tm
+/F2 10.50 Tf
+(Ejercicio) Tj
+/F2 10.50 Tf
+( D3.) Tj
+/F1 10.50 Tf
+( Hay) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( registrar) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( SUPERVISOR) Tj
+/F1 10.50 Tf
+( evalua) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( trabajo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( EMPLEADO) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( un) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 142.39 Tm
+/F1 10.50 Tf
+(PROYECTO) Tj
+/F1 10.50 Tf
+( concreto) Tj
+/F1 10.50 Tf
+( \(la) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( EMPLEADO-PROYECTO) Tj
+/F1 10.50 Tf
+( recibe) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( evaluacion) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( supervisor\).) Tj
+/F1 10.50 Tf
+( Que) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 128.39 Tm
+/F1 10.50 Tf
+(tecnica) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( MERE) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( estrictamente) Tj
+/F1 10.50 Tf
+( necesaria) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( por) Tj
+/F1 10.50 Tf
+( que?) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 114.89 m 539.28 114.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 76.89 Tm
+/F2 18.00 Tf
+(BLOQUE) Tj
+/F2 18.00 Tf
+( 14.) Tj
+/F2 18.00 Tf
+( SOLUCIONES) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Length 13783 >>
+stream
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 771.39 Tm
+/F2 14.50 Tf
+(Soluciones PARTE A) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 752.39 Tm
+/F2 10.50 Tf
+(A1.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 738.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(DNI) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Nombre,) Tj
+/F1 10.50 Tf
+( CodDpto) Tj
+/F1 10.50 Tf
+( \(el) Tj
+/F1 10.50 Tf
+( DNI) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( empleado) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( departamento\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 724.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(CodDpto) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombreDpto,) Tj
+/F1 10.50 Tf
+( DNI_Jefe) Tj
+/F1 10.50 Tf
+( \(el) Tj
+/F1 10.50 Tf
+( codigo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( departamento) Tj
+/F1 10.50 Tf
+( determina) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( nombre) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( su) Tj
+/F1 10.50 Tf
+( jefe\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 710.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Por) Tj
+/F1 10.50 Tf
+( transitividad:) Tj
+/F1 10.50 Tf
+( DNI) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombreDpto,) Tj
+/F1 10.50 Tf
+( DNI_Jefe.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 696.39 Tm
+/F1 10.50 Tf
+(Clave) Tj
+/F1 10.50 Tf
+( candidata:) Tj
+/F1 10.50 Tf
+( {DNI}.) Tj
+/F1 10.50 Tf
+( Hay) Tj
+/F1 10.50 Tf
+( dependencia) Tj
+/F1 10.50 Tf
+( transitiva) Tj
+/F1 10.50 Tf
+( \(NombreDpto) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( DNI_Jefe) Tj
+/F1 10.50 Tf
+( dependen) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( CodDpto,) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 682.39 Tm
+/F1 10.50 Tf
+(que) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( clave\):) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 3FN.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 664.39 Tm
+/F2 10.50 Tf
+(A2.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 650.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(IdCita) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NumHistoria,) Tj
+/F1 10.50 Tf
+( NumColegiado,) Tj
+/F1 10.50 Tf
+( Fecha,) Tj
+/F1 10.50 Tf
+( Hora) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 636.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(NumHistoria) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombrePaciente) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 622.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(NumColegiado) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Especialidad) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 608.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Transitivas:) Tj
+/F1 10.50 Tf
+( IdCita) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombrePaciente) Tj
+/F1 10.50 Tf
+( \(via) Tj
+/F1 10.50 Tf
+( NumHistoria\)) Tj
+/F1 10.50 Tf
+( e) Tj
+/F1 10.50 Tf
+( IdCita) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Especialidad) Tj
+/F1 10.50 Tf
+( \(via) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 594.39 Tm
+/F1 10.50 Tf
+(NumColegiado\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 580.39 Tm
+/F1 10.50 Tf
+(Clave:) Tj
+/F1 10.50 Tf
+( {IdCita}.) Tj
+/F1 10.50 Tf
+( Hay) Tj
+/F1 10.50 Tf
+( dependencias) Tj
+/F1 10.50 Tf
+( transitivas) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 3FN.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 562.39 Tm
+/F2 10.50 Tf
+(A3.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 548.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(IdAlumno) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombreAlumno) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 534.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(IdAsignatura) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( NombreAsignatura,) Tj
+/F1 10.50 Tf
+( IdProfesor) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 520.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(IdAlumno,) Tj
+/F1 10.50 Tf
+( IdAsignatura) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Nota) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 506.39 Tm
+/F1 10.50 Tf
+(Clave) Tj
+/F1 10.50 Tf
+( candidata:) Tj
+/F1 10.50 Tf
+( {IdAlumno,) Tj
+/F1 10.50 Tf
+( IdAsignatura}.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 492.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Parciales:) Tj
+/F1 10.50 Tf
+( NombreAlumno) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( IdAlumno) Tj
+/F1 10.50 Tf
+( \(parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave\);) Tj
+/F1 10.50 Tf
+( NombreAsignatura) Tj
+/F1 10.50 Tf
+( e) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 478.39 Tm
+/F1 10.50 Tf
+(IdProfesor) Tj
+/F1 10.50 Tf
+( dependen) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( IdAsignatura) Tj
+/F1 10.50 Tf
+( \(parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave\).) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( viola) Tj
+/F1 10.50 Tf
+( 2FN.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 464.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Transitiva:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( IdAsignatura) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( IdProfesor) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( profesor) Tj
+/F1 10.50 Tf
+( tuviera) Tj
+/F1 10.50 Tf
+( nombre,) Tj
+/F1 10.50 Tf
+( ese) Tj
+/F1 10.50 Tf
+( nombre) Tj
+/F1 10.50 Tf
+( seria) Tj
+/F1 10.50 Tf
+( transitivo.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 450.39 Tm
+/F1 10.50 Tf
+(Aqui) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( transitividad) Tj
+/F1 10.50 Tf
+( aparece) Tj
+/F1 10.50 Tf
+( tras) Tj
+/F1 10.50 Tf
+( corregir) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( parciales.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 422.39 Tm
+/F2 14.50 Tf
+(Soluciones PARTE B) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 403.39 Tm
+/F2 10.50 Tf
+(B1.) Tj
+/F1 10.50 Tf
+( A+) Tj
+/F1 10.50 Tf
+( :) Tj
+/F1 10.50 Tf
+( empiezo) Tj
+/F1 10.50 Tf
+( {A}.) Tj
+/F1 10.50 Tf
+( A->B) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B};) Tj
+/F1 10.50 Tf
+( B->C) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C};) Tj
+/F1 10.50 Tf
+( C->D) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C,D};) Tj
+/F1 10.50 Tf
+( D->E) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C,D,E}.) Tj
+/F1 10.50 Tf
+( A+) Tj
+/F1 10.50 Tf
+( =) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 389.39 Tm
+/F1 10.50 Tf
+(todos) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( {A}) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( superclave,) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( atributo) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( minima) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( CLAVE) Tj
+/F1 10.50 Tf
+( CANDIDATA.) Tj
+/F1 10.50 Tf
+( Si.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 371.39 Tm
+/F2 10.50 Tf
+(B2.) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( AB->C,) Tj
+/F1 10.50 Tf
+( C->D,) Tj
+/F1 10.50 Tf
+( D->A) Tj
+/F1 10.50 Tf
+( }.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 357.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(\(AB\)+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {A,B}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( AB->C) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( {A,B,C}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( C->D) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( {A,B,C,D}) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( todos.) Tj
+/F1 10.50 Tf
+( {AB}) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 343.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(\(BC\)+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {B,C}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( C->D) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( {B,C,D}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( D->A) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( {A,B,C,D}) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( todos.) Tj
+/F1 10.50 Tf
+( {BC}) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 329.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(\(BD\)+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {B,D}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( D->A) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( {A,B,D}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( AB->C) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( {A,B,C,D}) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( todos.) Tj
+/F1 10.50 Tf
+( {BD}) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( candidata.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 315.39 Tm
+/F1 10.50 Tf
+(Claves) Tj
+/F1 10.50 Tf
+( candidatas:) Tj
+/F1 10.50 Tf
+( {AB},) Tj
+/F1 10.50 Tf
+( {BC},) Tj
+/F1 10.50 Tf
+( {BD}.) Tj
+/F1 10.50 Tf
+( Atributos) Tj
+/F1 10.50 Tf
+( primos:) Tj
+/F1 10.50 Tf
+( A,) Tj
+/F1 10.50 Tf
+( B,) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( \(todos) Tj
+/F1 10.50 Tf
+( aparecen) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( alguna) Tj
+/F1 10.50 Tf
+( clave\).) Tj
+/F1 10.50 Tf
+( No) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 301.39 Tm
+/F1 10.50 Tf
+(primos:) Tj
+/F1 10.50 Tf
+( ninguno.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 283.39 Tm
+/F2 10.50 Tf
+(B3.) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( A->BC,) Tj
+/F1 10.50 Tf
+( CD->E,) Tj
+/F1 10.50 Tf
+( B->D,) Tj
+/F1 10.50 Tf
+( E->A) Tj
+/F1 10.50 Tf
+( }.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 269.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(\(A\)+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {A}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( A->BC) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( B->D) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C,D}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( CD->E) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C,D,E}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( E->A) Tj
+/F1 10.50 Tf
+( nada) Tj
+/F1 10.50 Tf
+( nuevo.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 255.39 Tm
+/F1 10.50 Tf
+(\(A\)+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {A,B,C,D,E}.) Tj
+/F1 10.50 Tf
+( Falta) Tj
+/F1 10.50 Tf
+( G.) Tj
+/F1 10.50 Tf
+( {A}) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( superclave) Tj
+/F1 10.50 Tf
+( \(no) Tj
+/F1 10.50 Tf
+( incluye) Tj
+/F1 10.50 Tf
+( G\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 241.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(\(E\)+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {E}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( E->A) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,E}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( A->BC) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C,E}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( B->D) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( {A,B,C,D,E}) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( CD->E) Tj
+/F1 10.50 Tf
+( nada) Tj
+/F1 10.50 Tf
+( nuevo.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 227.39 Tm
+/F1 10.50 Tf
+(\(E\)+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {A,B,C,D,E}.) Tj
+/F1 10.50 Tf
+( Tampoco) Tj
+/F1 10.50 Tf
+( incluye) Tj
+/F1 10.50 Tf
+( G.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 213.39 Tm
+/F1 10.50 Tf
+(G) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( aparece) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( derecho) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( ninguna) Tj
+/F1 10.50 Tf
+( DF,) Tj
+/F1 10.50 Tf
+( asi) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( debe) Tj
+/F1 10.50 Tf
+( estar) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( TODA) Tj
+/F1 10.50 Tf
+( clave.) Tj
+/F1 10.50 Tf
+( Una) Tj
+/F1 10.50 Tf
+( clave) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 199.39 Tm
+/F1 10.50 Tf
+(candidata) Tj
+/F1 10.50 Tf
+( seria) Tj
+/F1 10.50 Tf
+( {A,G}) Tj
+/F1 10.50 Tf
+( \(porque) Tj
+/F1 10.50 Tf
+( A+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( todo) Tj
+/F1 10.50 Tf
+( menos) Tj
+/F1 10.50 Tf
+( G,) Tj
+/F1 10.50 Tf
+( anadiendo) Tj
+/F1 10.50 Tf
+( G) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( completa\).) Tj
+/F1 10.50 Tf
+( {A}) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( clave;) Tj
+/F1 10.50 Tf
+( {A,G}) Tj
+/F1 10.50 Tf
+( si.) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 171.39 Tm
+/F2 14.50 Tf
+(Soluciones PARTE C) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 152.39 Tm
+/F2 10.50 Tf
+(C1.) Tj
+/F1 10.50 Tf
+( Clave) Tj
+/F1 10.50 Tf
+( candidata:) Tj
+/F1 10.50 Tf
+( {NumFactura,) Tj
+/F1 10.50 Tf
+( CodProducto}) Tj
+/F1 10.50 Tf
+( \(su) Tj
+/F1 10.50 Tf
+( cierre) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( todo\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 138.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(1FN:) Tj
+/F1 10.50 Tf
+( si.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 124.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(2FN:) Tj
+/F1 10.50 Tf
+( NO.) Tj
+/F1 10.50 Tf
+( Fecha) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( CodCliente) Tj
+/F1 10.50 Tf
+( dependen) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( NumFactura) Tj
+/F1 10.50 Tf
+( \(parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave\);) Tj
+/F1 10.50 Tf
+( NombreProducto) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 110.39 Tm
+/F1 10.50 Tf
+(depende) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( CodProducto) Tj
+/F1 10.50 Tf
+( \(parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave\)) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( dependencias) Tj
+/F1 10.50 Tf
+( parciales.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 96.39 Tm
+/F1 10.50 Tf
+(Normalizacion) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( 3FN:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 82.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(FACTURA\(NumFactura) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( Fecha,) Tj
+/F1 10.50 Tf
+( CodCliente) Tj
+/F1 10.50 Tf
+( FK\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 68.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(CLIENTE\(CodCliente) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( NombreCliente\)) Tj
+/F1 10.50 Tf
+( ) Tj
+/F1 10.50 Tf
+( --) Tj
+/F1 10.50 Tf
+( separa) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( transitiva) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Length 13194 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 775.39 Tm
+/F1 10.50 Tf
+(NumFactura->CodCliente->NombreCliente) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 761.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(PRODUCTO\(CodProducto) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( NombreProducto\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 747.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(DETALLE\(NumFactura) Tj
+/F1 10.50 Tf
+( FK,) Tj
+/F1 10.50 Tf
+( CodProducto) Tj
+/F1 10.50 Tf
+( FK,) Tj
+/F1 10.50 Tf
+( Cantidad\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( \(NumFactura,) Tj
+/F1 10.50 Tf
+( CodProducto\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 729.39 Tm
+/F2 10.50 Tf
+(C2.) Tj
+/F1 10.50 Tf
+( R\(A,B,C,D\),) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( AB->C,) Tj
+/F1 10.50 Tf
+( C->D,) Tj
+/F1 10.50 Tf
+( D->B) Tj
+/F1 10.50 Tf
+( }.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 715.39 Tm
+/F1 10.50 Tf
+(Claves) Tj
+/F1 10.50 Tf
+( candidatas:) Tj
+/F1 10.50 Tf
+( {AB},) Tj
+/F1 10.50 Tf
+( {AC},) Tj
+/F1 10.50 Tf
+( {AD}) Tj
+/F1 10.50 Tf
+( \(calculando) Tj
+/F1 10.50 Tf
+( cierres,) Tj
+/F1 10.50 Tf
+( A) Tj
+/F1 10.50 Tf
+( siempre) Tj
+/F1 10.50 Tf
+( necesario;) Tj
+/F1 10.50 Tf
+( ver) Tj
+/F1 10.50 Tf
+( B2) Tj
+/F1 10.50 Tf
+( razonamiento) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 701.39 Tm
+/F1 10.50 Tf
+(analogo\).) Tj
+/F1 10.50 Tf
+( Atributos) Tj
+/F1 10.50 Tf
+( primos:) Tj
+/F1 10.50 Tf
+( A,) Tj
+/F1 10.50 Tf
+( B,) Tj
+/F1 10.50 Tf
+( C,) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( \(todos\).) Tj
+/F1 10.50 Tf
+( No) Tj
+/F1 10.50 Tf
+( primos:) Tj
+/F1 10.50 Tf
+( ninguno.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 687.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Como) Tj
+/F1 10.50 Tf
+( TODOS) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( atributos) Tj
+/F1 10.50 Tf
+( son) Tj
+/F1 10.50 Tf
+( primos,) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( automaticamente) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 3FN) Tj
+/F1 10.50 Tf
+( \(y) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 2FN\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 673.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(BCNF:) Tj
+/F1 10.50 Tf
+( NO.) Tj
+/F1 10.50 Tf
+( En) Tj
+/F1 10.50 Tf
+( C->D) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( D->B,) Tj
+/F1 10.50 Tf
+( ni) Tj
+/F1 10.50 Tf
+( C) Tj
+/F1 10.50 Tf
+( ni) Tj
+/F1 10.50 Tf
+( D) Tj
+/F1 10.50 Tf
+( son) Tj
+/F1 10.50 Tf
+( superclaves) Tj
+/F1 10.50 Tf
+( \(sus) Tj
+/F1 10.50 Tf
+( cierres) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( contienen) Tj
+/F1 10.50 Tf
+( todos) Tj
+/F1 10.50 Tf
+( los) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 659.39 Tm
+/F1 10.50 Tf
+(atributos\),) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( determinan) Tj
+/F1 10.50 Tf
+( atributos.) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( viola) Tj
+/F1 10.50 Tf
+( BCNF.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 645.39 Tm
+/F1 10.50 Tf
+(Respuesta:) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 3FN) Tj
+/F1 10.50 Tf
+( pero) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( BCNF.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 627.39 Tm
+/F2 10.50 Tf
+(C3.) Tj
+/F1 10.50 Tf
+( Clave) Tj
+/F1 10.50 Tf
+( candidata:) Tj
+/F1 10.50 Tf
+( {IdEstudiante,) Tj
+/F1 10.50 Tf
+( IdCurso}.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 613.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(2FN:) Tj
+/F1 10.50 Tf
+( NO.) Tj
+/F1 10.50 Tf
+( NombreCurso,) Tj
+/F1 10.50 Tf
+( NombreProfesor) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( Aula) Tj
+/F1 10.50 Tf
+( dependen) Tj
+/F1 10.50 Tf
+( solo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( IdCurso) Tj
+/F1 10.50 Tf
+( \(parte) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave\)) Tj
+/F1 10.50 Tf
+( ->) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 599.39 Tm
+/F1 10.50 Tf
+(parcial.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 585.39 Tm
+/F1 10.50 Tf
+(Normalizacion) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( 3FN:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 571.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(CURSO\(IdCurso) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( NombreCurso,) Tj
+/F1 10.50 Tf
+( NombreProfesor,) Tj
+/F1 10.50 Tf
+( Aula\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 557.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(INSCRIPCION\(IdEstudiante) Tj
+/F1 10.50 Tf
+( FK,) Tj
+/F1 10.50 Tf
+( IdCurso) Tj
+/F1 10.50 Tf
+( FK\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( \(IdEstudiante,) Tj
+/F1 10.50 Tf
+( IdCurso\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 543.39 Tm
+/F1 10.50 Tf
+(\(Nota:) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( NombreProfesor) Tj
+/F1 10.50 Tf
+( dependiera) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( IdProfesor,) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( separaria) Tj
+/F1 10.50 Tf
+( tambien) Tj
+/F1 10.50 Tf
+( PROFESOR.\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 525.39 Tm
+/F2 10.50 Tf
+(C4.) Tj
+/F1 10.50 Tf
+( R\(Estudiante,) Tj
+/F1 10.50 Tf
+( Asignatura,) Tj
+/F1 10.50 Tf
+( Profesor\),) Tj
+/F1 10.50 Tf
+( F) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {) Tj
+/F1 10.50 Tf
+( EA->P,) Tj
+/F1 10.50 Tf
+( P->A) Tj
+/F1 10.50 Tf
+( }.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 511.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Claves) Tj
+/F1 10.50 Tf
+( candidatas:) Tj
+/F1 10.50 Tf
+( {Estudiante,) Tj
+/F1 10.50 Tf
+( Asignatura}) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( {Estudiante,) Tj
+/F1 10.50 Tf
+( Profesor}.) Tj
+/F1 10.50 Tf
+( \(EA+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( todo;) Tj
+/F1 10.50 Tf
+( EP+) Tj
+/F1 10.50 Tf
+( :) Tj
+/F1 10.50 Tf
+( P->A) Tj
+/F1 10.50 Tf
+( da) Tj
+/F1 10.50 Tf
+( A,) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 497.39 Tm
+/F1 10.50 Tf
+(luego) Tj
+/F1 10.50 Tf
+( EA->P) Tj
+/F1 10.50 Tf
+( ya) Tj
+/F1 10.50 Tf
+( tengo) Tj
+/F1 10.50 Tf
+( P,) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( {E,P,A}) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( todo.\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 483.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Atributos) Tj
+/F1 10.50 Tf
+( primos:) Tj
+/F1 10.50 Tf
+( Estudiante,) Tj
+/F1 10.50 Tf
+( Asignatura,) Tj
+/F1 10.50 Tf
+( Profesor) Tj
+/F1 10.50 Tf
+( \(todos\).) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( 3FN) Tj
+/F1 10.50 Tf
+( \(no) Tj
+/F1 10.50 Tf
+( hay) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primos\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 469.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(BCNF:) Tj
+/F1 10.50 Tf
+( NO.) Tj
+/F1 10.50 Tf
+( La) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( P->A) Tj
+/F1 10.50 Tf
+( tiene) Tj
+/F1 10.50 Tf
+( determinante) Tj
+/F1 10.50 Tf
+( P,) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( NO) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( superclave) Tj
+/F1 10.50 Tf
+( \(P+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( {P,A},) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( incluye) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 455.39 Tm
+/F1 10.50 Tf
+(Estudiante\).) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( viola) Tj
+/F1 10.50 Tf
+( BCNF.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 441.39 Tm
+/F1 10.50 Tf
+(Descomposicion) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( BCNF:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 427.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(R1\(Profesor) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( Asignatura\)) Tj
+/F1 10.50 Tf
+( ) Tj
+/F1 10.50 Tf
+( --) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( P->A) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 413.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(R2\(Estudiante,) Tj
+/F1 10.50 Tf
+( Profesor\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( \(Estudiante,) Tj
+/F1 10.50 Tf
+( Profesor\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 399.39 Tm
+/F1 10.50 Tf
+(Esta) Tj
+/F1 10.50 Tf
+( descomposicion) Tj
+/F1 10.50 Tf
+( conserva) Tj
+/F1 10.50 Tf
+( los) Tj
+/F1 10.50 Tf
+( datos,) Tj
+/F1 10.50 Tf
+( aunque) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( preserva) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( EA->P) Tj
+/F1 10.50 Tf
+( \(caso) Tj
+/F1 10.50 Tf
+( clasico:) Tj
+/F1 10.50 Tf
+( BCNF) Tj
+/F1 10.50 Tf
+( puede) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 385.39 Tm
+/F1 10.50 Tf
+(no) Tj
+/F1 10.50 Tf
+( preservar) Tj
+/F1 10.50 Tf
+( todas) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( dependencias\).) Tj
+ET
+0.100 0.100 0.550 rg
+BT
+1 0 0 1 56.00 357.39 Tm
+/F2 14.50 Tf
+(Soluciones PARTE D) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 338.39 Tm
+/F2 10.50 Tf
+(D1.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 324.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(LIBRO:) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( fuerte) Tj
+/F1 10.50 Tf
+( \(PK:) Tj
+/F1 10.50 Tf
+( ISBN\).) Tj
+/F1 10.50 Tf
+( EJEMPLAR:) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( debil) Tj
+/F1 10.50 Tf
+( \(depende) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( libro\).) Tj
+/F1 10.50 Tf
+( Relacion) Tj
+/F1 10.50 Tf
+( LIBRO) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 310.39 Tm
+/F1 10.50 Tf
+(1:N) Tj
+/F1 10.50 Tf
+( EJEMPLAR) Tj
+/F1 10.50 Tf
+( \(identificadora\),) Tj
+/F1 10.50 Tf
+( EJEMPLAR) Tj
+/F1 10.50 Tf
+( participacion) Tj
+/F1 10.50 Tf
+( total.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 296.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(SOCIO:) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( fuerte) Tj
+/F1 10.50 Tf
+( \(PK:) Tj
+/F1 10.50 Tf
+( NumSocio\).) Tj
+/F1 10.50 Tf
+( PRESTAMO:) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( N:M) Tj
+/F1 10.50 Tf
+( entre) Tj
+/F1 10.50 Tf
+( SOCIO) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( EJEMPLAR) Tj
+/F1 10.50 Tf
+( con) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 282.39 Tm
+/F1 10.50 Tf
+(atributo) Tj
+/F1 10.50 Tf
+( FechaPrestamo.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 268.39 Tm
+/F1 10.50 Tf
+(Paso) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( tablas:) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 254.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(LIBRO\(ISBN) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( Titulo,) Tj
+/F1 10.50 Tf
+( ...\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 240.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(EJEMPLAR\(ISBN) Tj
+/F1 10.50 Tf
+( FK,) Tj
+/F1 10.50 Tf
+( NumEjemplar\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( \(ISBN,) Tj
+/F1 10.50 Tf
+( NumEjemplar\)) Tj
+/F1 10.50 Tf
+( ) Tj
+/F1 10.50 Tf
+( --) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( compuesta) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( del) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 226.39 Tm
+/F1 10.50 Tf
+(dueno) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( discriminante) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 212.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(SOCIO\(NumSocio) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( Nombre,) Tj
+/F1 10.50 Tf
+( ...\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 198.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(PRESTAMO\(NumSocio) Tj
+/F1 10.50 Tf
+( FK,) Tj
+/F1 10.50 Tf
+( ISBN,) Tj
+/F1 10.50 Tf
+( NumEjemplar,) Tj
+/F1 10.50 Tf
+( FechaPrestamo\)) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( incluye) Tj
+/F1 10.50 Tf
+( las) Tj
+/F1 10.50 Tf
+( claves) Tj
+/F1 10.50 Tf
+( +) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 184.39 Tm
+/F1 10.50 Tf
+(la) Tj
+/F1 10.50 Tf
+( fecha) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( mismo) Tj
+/F1 10.50 Tf
+( ejemplar) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( prestarse) Tj
+/F1 10.50 Tf
+( al) Tj
+/F1 10.50 Tf
+( mismo) Tj
+/F1 10.50 Tf
+( socio) Tj
+/F1 10.50 Tf
+( varias) Tj
+/F1 10.50 Tf
+( veces.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 166.39 Tm
+/F2 10.50 Tf
+(D2.) Tj
+/F1 10.50 Tf
+( Jerarquia) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( PERSONA) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( subclases) Tj
+/F1 10.50 Tf
+( ALUMNO) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( PROFESOR.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 152.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Disyuncion:) Tj
+/F1 10.50 Tf
+( SOLAPADA) Tj
+/F1 10.50 Tf
+( \(una) Tj
+/F1 10.50 Tf
+( persona) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( ambas) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( vez\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 138.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Completitud:) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( enunciado;) Tj
+/F1 10.50 Tf
+( si) Tj
+/F1 10.50 Tf
+( toda) Tj
+/F1 10.50 Tf
+( persona) Tj
+/F1 10.50 Tf
+( debe) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( alumno) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( profesor,) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( TOTAL;) Tj
+/F1 10.50 Tf
+( si) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 68.00 124.39 Tm
+/F1 10.50 Tf
+(puede) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( otra) Tj
+/F1 10.50 Tf
+( cosa,) Tj
+/F1 10.50 Tf
+( PARCIAL.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 110.39 Tm
+/F1 10.50 Tf
+(Paso) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( tablas) Tj
+/F1 10.50 Tf
+( \(opcion) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( por) Tj
+/F1 10.50 Tf
+( clase\):) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 96.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(PERSONA\(DNI) Tj
+/F1 10.50 Tf
+( PK,) Tj
+/F1 10.50 Tf
+( Nombre,) Tj
+/F1 10.50 Tf
+( ...\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 82.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(ALUMNO\(DNI) Tj
+/F1 10.50 Tf
+( PK/FK,) Tj
+/F1 10.50 Tf
+( NotaMedia,) Tj
+/F1 10.50 Tf
+( ...\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 68.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(PROFESOR\(DNI) Tj
+/F1 10.50 Tf
+( PK/FK,) Tj
+/F1 10.50 Tf
+( Departamento,) Tj
+/F1 10.50 Tf
+( ...\)) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Length 7833 >>
+stream
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 775.39 Tm
+/F1 10.50 Tf
+(Al) Tj
+/F1 10.50 Tf
+( ser) Tj
+/F1 10.50 Tf
+( solapada,) Tj
+/F1 10.50 Tf
+( un) Tj
+/F1 10.50 Tf
+( mismo) Tj
+/F1 10.50 Tf
+( DNI) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( aparecer) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( vez) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( ALUMNO) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( PROFESOR.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 757.39 Tm
+/F2 10.50 Tf
+(D3.) Tj
+/F1 10.50 Tf
+( Es) Tj
+/F1 10.50 Tf
+( estrictamente) Tj
+/F1 10.50 Tf
+( necesaria) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( AGREGACION.) Tj
+/F1 10.50 Tf
+( Motivo:) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( evaluacion) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( SUPERVISOR) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( recae) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 743.39 Tm
+/F1 10.50 Tf
+(sobre) Tj
+/F1 10.50 Tf
+( EMPLEADO) Tj
+/F1 10.50 Tf
+( ni) Tj
+/F1 10.50 Tf
+( sobre) Tj
+/F1 10.50 Tf
+( PROYECTO) Tj
+/F1 10.50 Tf
+( por) Tj
+/F1 10.50 Tf
+( separado,) Tj
+/F1 10.50 Tf
+( sino) Tj
+/F1 10.50 Tf
+( sobre) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( RELACION) Tj
+/F1 10.50 Tf
+( entre) Tj
+/F1 10.50 Tf
+( ambos) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 729.39 Tm
+/F1 10.50 Tf
+(\(TRABAJA_EN\).) Tj
+/F1 10.50 Tf
+( Como) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( puede) Tj
+/F1 10.50 Tf
+( vincularse) Tj
+/F1 10.50 Tf
+( directamente) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( otra) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( ni) Tj
+/F1 10.50 Tf
+( recibir) Tj
+/F1 10.50 Tf
+( un) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 715.39 Tm
+/F1 10.50 Tf
+(nuevo) Tj
+/F1 10.50 Tf
+( vinculo) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tercera) Tj
+/F1 10.50 Tf
+( entidad,) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( agrega) Tj
+/F1 10.50 Tf
+( TRABAJA_EN) Tj
+/F1 10.50 Tf
+( \(junto) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( EMPLEADO) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( PROYECTO\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 701.39 Tm
+/F1 10.50 Tf
+(tratandola) Tj
+/F1 10.50 Tf
+( como) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( entidad) Tj
+/F1 10.50 Tf
+( compuesta,) Tj
+/F1 10.50 Tf
+( y) Tj
+/F1 10.50 Tf
+( se) Tj
+/F1 10.50 Tf
+( conecta) Tj
+/F1 10.50 Tf
+( esa) Tj
+/F1 10.50 Tf
+( agregacion) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( SUPERVISOR) Tj
+/F1 10.50 Tf
+( mediante) Tj
+/F1 10.50 Tf
+( la) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 687.39 Tm
+/F1 10.50 Tf
+(relacion) Tj
+/F1 10.50 Tf
+( EVALUA.) Tj
+ET
+0.6 0.6 0.6 RG
+0.5 w
+56.00 673.89 m 539.28 673.89 l S
+0.050 0.050 0.500 rg
+BT
+1 0 0 1 56.00 635.89 Tm
+/F2 18.00 Tf
+(ANEXO.) Tj
+/F2 18.00 Tf
+( CHULETA) Tj
+/F2 18.00 Tf
+( RAPIDA) Tj
+/F2 18.00 Tf
+( \(ultimo) Tj
+/F2 18.00 Tf
+( repaso\)) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 614.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(DF) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( Y:) Tj
+/F1 10.50 Tf
+( mismas) Tj
+/F1 10.50 Tf
+( X) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( mismas) Tj
+/F1 10.50 Tf
+( Y.) Tj
+/F1 10.50 Tf
+( Unidireccional.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 600.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Cierre) Tj
+/F1 10.50 Tf
+( X+:) Tj
+/F1 10.50 Tf
+( arranca) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( X;) Tj
+/F1 10.50 Tf
+( anade) Tj
+/F1 10.50 Tf
+( derechos) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( DF) Tj
+/F1 10.50 Tf
+( cuyo) Tj
+/F1 10.50 Tf
+( izquierdo) Tj
+/F1 10.50 Tf
+( ya) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( dentro.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 586.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(X+) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( todos) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( superclave;) Tj
+/F1 10.50 Tf
+( superclave) Tj
+/F1 10.50 Tf
+( minima) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( candidata.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 572.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Primo) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( esta) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( alguna) Tj
+/F1 10.50 Tf
+( candidata.) Tj
+/F1 10.50 Tf
+( Todos) Tj
+/F1 10.50 Tf
+( primos) Tj
+/F1 10.50 Tf
+( =>) Tj
+/F1 10.50 Tf
+( 3FN) Tj
+/F1 10.50 Tf
+( automatica.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 558.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(1FN:) Tj
+/F1 10.50 Tf
+( valores) Tj
+/F1 10.50 Tf
+( atomicos.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 544.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(2FN:) Tj
+/F1 10.50 Tf
+( 1FN) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( sin) Tj
+/F1 10.50 Tf
+( dependencias) Tj
+/F1 10.50 Tf
+( parciales) Tj
+/F1 10.50 Tf
+( \(solo) Tj
+/F1 10.50 Tf
+( peligra) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( compuesta\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 530.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(3FN:) Tj
+/F1 10.50 Tf
+( 2FN) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( sin) Tj
+/F1 10.50 Tf
+( dependencias) Tj
+/F1 10.50 Tf
+( transitivas.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 516.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(BCNF:) Tj
+/F1 10.50 Tf
+( todo) Tj
+/F1 10.50 Tf
+( determinante) Tj
+/F1 10.50 Tf
+( es) Tj
+/F1 10.50 Tf
+( superclave.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 502.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Parcial) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( PARTE) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( la) Tj
+/F1 10.50 Tf
+( clave.) Tj
+/F1 10.50 Tf
+( Transitiva) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primo) Tj
+/F1 10.50 Tf
+( depende) Tj
+/F1 10.50 Tf
+( de) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( no) Tj
+/F1 10.50 Tf
+( primo.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 488.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(1:N) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( el) Tj
+/F1 10.50 Tf
+( lado) Tj
+/F1 10.50 Tf
+( N.) Tj
+/F1 10.50 Tf
+( N:M) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( intermedia) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( compuesta.) Tj
+/F1 10.50 Tf
+( Multivaluado) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( tabla) Tj
+/F1 10.50 Tf
+( aparte.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 474.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Entidad) Tj
+/F1 10.50 Tf
+( debil) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( PK) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( clave) Tj
+/F1 10.50 Tf
+( del) Tj
+/F1 10.50 Tf
+( dueno) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( discriminante.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 460.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Agregacion) Tj
+/F1 10.50 Tf
+( ->) Tj
+/F1 10.50 Tf
+( relacion) Tj
+/F1 10.50 Tf
+( que) Tj
+/F1 10.50 Tf
+( participa) Tj
+/F1 10.50 Tf
+( en) Tj
+/F1 10.50 Tf
+( otro) Tj
+/F1 10.50 Tf
+( vinculo) Tj
+/F1 10.50 Tf
+( con) Tj
+/F1 10.50 Tf
+( una) Tj
+/F1 10.50 Tf
+( tercera) Tj
+/F1 10.50 Tf
+( entidad.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 446.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Jerarquia:) Tj
+/F1 10.50 Tf
+( disjunta/solapada) Tj
+/F1 10.50 Tf
+( \(cuantas) Tj
+/F1 10.50 Tf
+( subclases\)) Tj
+/F1 10.50 Tf
+( +) Tj
+/F1 10.50 Tf
+( total/parcial) Tj
+/F1 10.50 Tf
+( \(obligatorio) Tj
+/F1 10.50 Tf
+( o) Tj
+/F1 10.50 Tf
+( no\).) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 432.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Integridad) Tj
+/F1 10.50 Tf
+( referencial:) Tj
+/F1 10.50 Tf
+( FK) Tj
+/F1 10.50 Tf
+( CASCADE) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( SET) Tj
+/F1 10.50 Tf
+( NULL) Tj
+/F1 10.50 Tf
+( /) Tj
+/F1 10.50 Tf
+( RESTRICT.) Tj
+ET
+0.000 0.000 0.000 rg
+BT
+1 0 0 1 56.00 418.39 Tm
+/F1 10.50 Tf
+(-  ) Tj
+/F1 10.50 Tf
+(Desnormalizar) Tj
+/F1 10.50 Tf
+( =) Tj
+/F1 10.50 Tf
+( anadir) Tj
+/F1 10.50 Tf
+( redundancia) Tj
+/F1 10.50 Tf
+( a) Tj
+/F1 10.50 Tf
+( proposito) Tj
+/F1 10.50 Tf
+( para) Tj
+/F1 10.50 Tf
+( acelerar) Tj
+/F1 10.50 Tf
+( lecturas) Tj
+/F1 10.50 Tf
+( \(ultimo) Tj
+/F1 10.50 Tf
+( recurso\).) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+20 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+21 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+22 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+23 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+24 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+25 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+26 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+27 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 14 0 R >>
+endobj
+28 0 obj
+<< /Type /Page /Parent 29 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+29 0 obj
+<< /Type /Pages /Kids [16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R] /Count 13 >>
+endobj
+30 0 obj
+<< /Type /Catalog /Pages 29 0 R >>
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000011777 00000 n 
+0000023219 00000 n 
+0000036093 00000 n 
+0000046505 00000 n 
+0000057534 00000 n 
+0000068640 00000 n 
+0000080088 00000 n 
+0000091634 00000 n 
+0000102436 00000 n 
+0000115855 00000 n 
+0000129692 00000 n 
+0000142940 00000 n 
+0000150826 00000 n 
+0000150970 00000 n 
+0000151114 00000 n 
+0000151258 00000 n 
+0000151402 00000 n 
+0000151546 00000 n 
+0000151690 00000 n 
+0000151834 00000 n 
+0000151979 00000 n 
+0000152124 00000 n 
+0000152269 00000 n 
+0000152414 00000 n 
+0000152559 00000 n 
+0000152704 00000 n 
+0000152848 00000 n 
+trailer
+<< /Size 31 /Root 30 0 R >>
+startxref
+152899
+%%EOF
